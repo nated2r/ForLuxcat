@@ -1,4 +1,5 @@
-# 將 web/ 發佈為 GitHub Pages（網址約：https://你的帳號.github.io/ForLuxcat/）
+# 將 web/ 發佈為 GitHub Pages（官方建議：build 上傳 artifact → deploy 部署）
+# 網址約：https://nated2r.github.io/ForLuxcat/
 name: Deploy GitHub Pages
 
 on:
@@ -13,29 +14,32 @@ permissions:
 
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
 
-      # .gitignore 未追蹤 products.json 時，用範例複製一份，避免網頁 fetch 失敗（空清單）
       - name: Ensure products.json exists
         run: |
           if [ ! -f web/products.json ]; then
             cp web/products.json.example web/products.json
           fi
 
-      - uses: actions/configure-pages@v5
+      - uses: actions/configure-pages@v4
 
       - uses: actions/upload-pages-artifact@v3
         with:
           path: web
 
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
       - id: deployment
         uses: actions/deploy-pages@v4
