@@ -1,0 +1,5992 @@
+[
+  {
+    "name": "好食光 海苔脆魚捲",
+    "code": "SH00348Y23D001M0022S01",
+    "price": 200,
+    "bonus": 22,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/SH00348230001/16735051964808.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 300,
+        "avg": 300,
+        "label": "1盒( 300 )  平均每盒( 300 )"
+      },
+      {
+        "qty": 2,
+        "total": 500,
+        "avg": 250,
+        "label": "2盒( 500 )  平均每盒( 250 )"
+      },
+      {
+        "qty": 4,
+        "total": 930,
+        "avg": 233,
+        "label": "4盒( 930 )  平均每盒( 233 )"
+      },
+      {
+        "qty": 6,
+        "total": 1330,
+        "avg": 222,
+        "label": "6盒( 1,330 )  平均每盒( 222 )"
+      },
+      {
+        "qty": 8,
+        "total": 1730,
+        "avg": 217,
+        "label": "8盒( 1,730 )  平均每盒( 217 )"
+      },
+      {
+        "qty": 10,
+        "total": 2130,
+        "avg": 213,
+        "label": "10盒( 2,130 )  平均每盒( 213 )"
+      },
+      {
+        "qty": 16,
+        "total": 3360,
+        "avg": 210,
+        "label": "16盒( 3,360 )  平均每盒( 210 )"
+      },
+      {
+        "qty": 24,
+        "total": 4800,
+        "avg": 200,
+        "label": "24盒( 4,800 )  平均每盒( 200 )"
+      }
+    ]
+  },
+  {
+    "name": "酷覓星 香鬆起士糙米捲(添加奇亞籽、彩虹藜麥)",
+    "code": "DI00034Y23D001M0025S01",
+    "price": 198,
+    "bonus": 25,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/DI00034200001/16206242230801.jpg",
+    "plans": [
+      {
+        "qty": 2,
+        "total": 496,
+        "avg": 248,
+        "label": "2包( 496 )  平均每包( 248 )"
+      },
+      {
+        "qty": 4,
+        "total": 922,
+        "avg": 231,
+        "label": "4包( 922 )  平均每包( 231 )"
+      },
+      {
+        "qty": 6,
+        "total": 1318,
+        "avg": 220,
+        "label": "6包( 1,318 )  平均每包( 220 )"
+      },
+      {
+        "qty": 8,
+        "total": 1714,
+        "avg": 215,
+        "label": "8包( 1,714 )  平均每包( 215 )"
+      },
+      {
+        "qty": 10,
+        "total": 2110,
+        "avg": 211,
+        "label": "10包( 2,110 )  平均每包( 211 )"
+      },
+      {
+        "qty": 12,
+        "total": 2536,
+        "avg": 212,
+        "label": "12包( 2,536 )  平均每包( 212 )"
+      },
+      {
+        "qty": 16,
+        "total": 3328,
+        "avg": 208,
+        "label": "16包( 3,328 )  平均每包( 208 )"
+      },
+      {
+        "qty": 24,
+        "total": 4912,
+        "avg": 205,
+        "label": "24包( 4,912 )  平均每包( 205 )"
+      },
+      {
+        "qty": 48,
+        "total": 9504,
+        "avg": 198,
+        "label": "48包( 9,504 )  平均每包( 198 )"
+      }
+    ]
+  },
+  {
+    "name": "【快樂價】好食光 海苔脆魚捲",
+    "code": "SH00348250003",
+    "price": 135,
+    "bonus": 0,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/SH00348230001/16735051964808.jpg",
+    "plans": [
+      {
+        "qty": 24,
+        "total": 3240,
+        "avg": 135,
+        "label": "24盒( 3,240 )  平均每盒( 135 )"
+      },
+      {
+        "qty": 48,
+        "total": 6480,
+        "avg": 135,
+        "label": "48盒( 6,480 )  平均每盒( 135 )"
+      }
+    ]
+  },
+  {
+    "name": "自然主意 香草椒鹽蘇打餅【宅配】",
+    "code": "WE00021200015",
+    "price": 72,
+    "bonus": 0,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/WE00021200003/15910023490474.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 172,
+        "avg": 172,
+        "label": "1包( 172 )  平均每包( 172 )"
+      },
+      {
+        "qty": 2,
+        "total": 244,
+        "avg": 122,
+        "label": "2包( 244 )  平均每包( 122 )"
+      },
+      {
+        "qty": 4,
+        "total": 418,
+        "avg": 105,
+        "label": "4包( 418 )  平均每包( 105 )"
+      },
+      {
+        "qty": 8,
+        "total": 706,
+        "avg": 89,
+        "label": "8包( 706 )  平均每包( 89 )"
+      },
+      {
+        "qty": 20,
+        "total": 1440,
+        "avg": 72,
+        "label": "20包( 1,440 )  平均每包( 72 )"
+      }
+    ]
+  },
+  {
+    "name": "【快樂價】酷覓星 香鬆起士糙米捲",
+    "code": "DI00034250005",
+    "price": 133,
+    "bonus": 0,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/DI00034200001/16206242230801.jpg",
+    "plans": [
+      {
+        "qty": 48,
+        "total": 6384,
+        "avg": 133,
+        "label": "48包( 6,384 )  平均每包( 133 )"
+      }
+    ]
+  },
+  {
+    "name": "酷覓星 日式黑巧肉鬆煎卷",
+    "code": "DI00034Y23D001M0027S01",
+    "price": 220,
+    "bonus": 27,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/DI00034210012/16346318193457.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 320,
+        "avg": 320,
+        "label": "1包( 320 )  平均每包( 320 )"
+      },
+      {
+        "qty": 2,
+        "total": 540,
+        "avg": 270,
+        "label": "2包( 540 )  平均每包( 270 )"
+      },
+      {
+        "qty": 4,
+        "total": 1010,
+        "avg": 253,
+        "label": "4包( 1,010 )  平均每包( 253 )"
+      },
+      {
+        "qty": 8,
+        "total": 1890,
+        "avg": 237,
+        "label": "8包( 1,890 )  平均每包( 237 )"
+      },
+      {
+        "qty": 10,
+        "total": 2330,
+        "avg": 233,
+        "label": "10包( 2,330 )  平均每包( 233 )"
+      },
+      {
+        "qty": 12,
+        "total": 2770,
+        "avg": 231,
+        "label": "12包( 2,770 )  平均每包( 231 )"
+      },
+      {
+        "qty": 20,
+        "total": 4564,
+        "avg": 229,
+        "label": "20包( 4,564 )  平均每包( 229 )"
+      },
+      {
+        "qty": 28,
+        "total": 6332,
+        "avg": 227,
+        "label": "28包( 6,332 )  平均每包( 227 )"
+      },
+      {
+        "qty": 54,
+        "total": 11880,
+        "avg": 220,
+        "label": "54包( 11,880 )  平均每包( 220 )"
+      }
+    ]
+  },
+  {
+    "name": "【快樂價】好食光 台灣豬辛",
+    "code": "SH00348Y25D1103M0000S01",
+    "price": 150,
+    "bonus": 0,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/SH00348250006/17643143826991.jpg",
+    "plans": [
+      {
+        "qty": 2,
+        "total": 400,
+        "avg": 200,
+        "label": "2盒( 400 )  平均每盒( 200 )"
+      },
+      {
+        "qty": 4,
+        "total": 700,
+        "avg": 175,
+        "label": "4盒( 700 )  平均每盒( 175 )"
+      },
+      {
+        "qty": 6,
+        "total": 1030,
+        "avg": 172,
+        "label": "6盒( 1,030 )  平均每盒( 172 )"
+      },
+      {
+        "qty": 24,
+        "total": 3600,
+        "avg": 150,
+        "label": "24盒( 3,600 )  平均每盒( 150 )"
+      }
+    ]
+  },
+  {
+    "name": "良實糧食 海食系 HOHO魷厚（原味／辣味）【宅配】",
+    "code": "LI00044240002",
+    "price": 157,
+    "bonus": 0,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/LI00044240002/17153101356362.jpg",
+    "plans": [
+      {
+        "qty": 2,
+        "total": 400,
+        "avg": 200,
+        "label": "2包( 400 )  平均每包( 200 )"
+      },
+      {
+        "qty": 4,
+        "total": 700,
+        "avg": 175,
+        "label": "4包( 700 )  平均每包( 175 )"
+      },
+      {
+        "qty": 8,
+        "total": 1330,
+        "avg": 167,
+        "label": "8包( 1,330 )  平均每包( 167 )"
+      },
+      {
+        "qty": 12,
+        "total": 1930,
+        "avg": 161,
+        "label": "12包( 1,930 )  平均每包( 161 )"
+      },
+      {
+        "qty": 16,
+        "total": 2532,
+        "avg": 159,
+        "label": "16包( 2,532 )  平均每包( 159 )"
+      },
+      {
+        "qty": 20,
+        "total": 3136,
+        "avg": 157,
+        "label": "20包( 3,136 )  平均每包( 157 )"
+      }
+    ]
+  },
+  {
+    "name": "醬小椒 辣椒乾蘸 100g／瓶",
+    "code": "NI00217Y23D001M0007S01",
+    "price": 130,
+    "bonus": 7,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/NI00217230001/16801454226823.jpg",
+    "plans": [
+      {
+        "qty": 2,
+        "total": 320,
+        "avg": 160,
+        "label": "2瓶( 320 )  平均每瓶( 160 )"
+      },
+      {
+        "qty": 4,
+        "total": 580,
+        "avg": 145,
+        "label": "4瓶( 580 )  平均每瓶( 145 )"
+      },
+      {
+        "qty": 6,
+        "total": 840,
+        "avg": 140,
+        "label": "6瓶( 840 )  平均每瓶( 140 )"
+      },
+      {
+        "qty": 8,
+        "total": 1100,
+        "avg": 138,
+        "label": "8瓶( 1,100 )  平均每瓶( 138 )"
+      },
+      {
+        "qty": 12,
+        "total": 1560,
+        "avg": 130,
+        "label": "12瓶( 1,560 )  平均每瓶( 130 )"
+      }
+    ]
+  },
+  {
+    "name": "自然主意 奇亞籽 家庭號",
+    "code": "WE00021Y23D001M0083S01",
+    "price": 600,
+    "bonus": 83,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/WE00021200004/16403165937355.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 700,
+        "avg": 700,
+        "label": "1罐( 700 )  平均每罐( 700 )"
+      },
+      {
+        "qty": 2,
+        "total": 1300,
+        "avg": 650,
+        "label": "2罐( 1,300 )  平均每罐( 650 )"
+      },
+      {
+        "qty": 4,
+        "total": 2500,
+        "avg": 625,
+        "label": "4罐( 2,500 )  平均每罐( 625 )"
+      },
+      {
+        "qty": 6,
+        "total": 3730,
+        "avg": 622,
+        "label": "6罐( 3,730 )  平均每罐( 622 )"
+      },
+      {
+        "qty": 8,
+        "total": 4930,
+        "avg": 617,
+        "label": "8罐( 4,930 )  平均每罐( 617 )"
+      },
+      {
+        "qty": 10,
+        "total": 6130,
+        "avg": 613,
+        "label": "10罐( 6,130 )  平均每罐( 613 )"
+      },
+      {
+        "qty": 12,
+        "total": 7200,
+        "avg": 600,
+        "label": "12罐( 7,200 )  平均每罐( 600 )"
+      }
+    ]
+  },
+  {
+    "name": "【快樂價】良實糧食 海食系 HOHO魷厚（原味）",
+    "code": "LI00044250008",
+    "price": 158,
+    "bonus": 0,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/LI00044240002/17153101356362.jpg",
+    "plans": [
+      {
+        "qty": 20,
+        "total": 3160,
+        "avg": 158,
+        "label": "20包( 3,160 )  平均每包( 158 )"
+      },
+      {
+        "qty": 40,
+        "total": 6320,
+        "avg": 158,
+        "label": "40包( 6,320 )  平均每包( 158 )"
+      }
+    ]
+  },
+  {
+    "name": "良實糧食 海食系 HOHO魷厚（原味／辣味）【自取】",
+    "code": "LI00044240001",
+    "price": 150,
+    "bonus": 0,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/LI00044240002/17153101356362.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 150,
+        "avg": 150,
+        "label": "1包( 150 )  平均每包( 150 )"
+      },
+      {
+        "qty": 2,
+        "total": 300,
+        "avg": 150,
+        "label": "2包( 300 )  平均每包( 150 )"
+      },
+      {
+        "qty": 4,
+        "total": 600,
+        "avg": 150,
+        "label": "4包( 600 )  平均每包( 150 )"
+      },
+      {
+        "qty": 8,
+        "total": 1200,
+        "avg": 150,
+        "label": "8包( 1,200 )  平均每包( 150 )"
+      },
+      {
+        "qty": 10,
+        "total": 1500,
+        "avg": 150,
+        "label": "10包( 1,500 )  平均每包( 150 )"
+      },
+      {
+        "qty": 12,
+        "total": 1800,
+        "avg": 150,
+        "label": "12包( 1,800 )  平均每包( 150 )"
+      },
+      {
+        "qty": 20,
+        "total": 3000,
+        "avg": 150,
+        "label": "20包( 3,000 )  平均每包( 150 )"
+      }
+    ]
+  },
+  {
+    "name": "自然主意 香草椒鹽蘇打餅",
+    "code": "WE00021200014",
+    "price": 72,
+    "bonus": 0,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/WE00021200003/15910023490474.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 72,
+        "avg": 72,
+        "label": "1包( 72 )  平均每包( 72 )"
+      },
+      {
+        "qty": 2,
+        "total": 144,
+        "avg": 72,
+        "label": "2包( 144 )  平均每包( 72 )"
+      },
+      {
+        "qty": 3,
+        "total": 216,
+        "avg": 72,
+        "label": "3包( 216 )  平均每包( 72 )"
+      }
+    ]
+  },
+  {
+    "name": "明治 頂級和牛肉乾（原味／麻辣）【宅配】",
+    "code": "MI00167240002",
+    "price": 319,
+    "bonus": 0,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/MI00167240002/17320736010878.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 399,
+        "avg": 399,
+        "label": "1包( 399 )  平均每包( 399 )"
+      },
+      {
+        "qty": 2,
+        "total": 718,
+        "avg": 359,
+        "label": "2包( 718 )  平均每包( 359 )"
+      },
+      {
+        "qty": 4,
+        "total": 1356,
+        "avg": 339,
+        "label": "4包( 1,356 )  平均每包( 339 )"
+      },
+      {
+        "qty": 8,
+        "total": 2652,
+        "avg": 332,
+        "label": "8包( 2,652 )  平均每包( 332 )"
+      },
+      {
+        "qty": 12,
+        "total": 3928,
+        "avg": 328,
+        "label": "12包( 3,928 )  平均每包( 328 )"
+      },
+      {
+        "qty": 16,
+        "total": 5224,
+        "avg": 327,
+        "label": "16包( 5,224 )  平均每包( 327 )"
+      },
+      {
+        "qty": 20,
+        "total": 6500,
+        "avg": 325,
+        "label": "20包( 6,500 )  平均每包( 325 )"
+      },
+      {
+        "qty": 30,
+        "total": 9570,
+        "avg": 319,
+        "label": "30包( 9,570 )  平均每包( 319 )"
+      }
+    ]
+  },
+  {
+    "name": "良實糧食 海食系 小辛甘小卷燒／碳炙郎蜜魷魚【宅配】",
+    "code": "LI00044250003",
+    "price": 170,
+    "bonus": 0,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/LI00044250002/17467775699404.jpg",
+    "plans": [
+      {
+        "qty": 2,
+        "total": 430,
+        "avg": 215,
+        "label": "2包( 430 )  平均每包( 215 )"
+      },
+      {
+        "qty": 4,
+        "total": 760,
+        "avg": 190,
+        "label": "4包( 760 )  平均每包( 190 )"
+      },
+      {
+        "qty": 8,
+        "total": 1450,
+        "avg": 182,
+        "label": "8包( 1,450 )  平均每包( 182 )"
+      },
+      {
+        "qty": 12,
+        "total": 2110,
+        "avg": 176,
+        "label": "12包( 2,110 )  平均每包( 176 )"
+      },
+      {
+        "qty": 16,
+        "total": 2772,
+        "avg": 174,
+        "label": "16包( 2,772 )  平均每包( 174 )"
+      },
+      {
+        "qty": 20,
+        "total": 3436,
+        "avg": 172,
+        "label": "20包( 3,436 )  平均每包( 172 )"
+      },
+      {
+        "qty": 24,
+        "total": 4100,
+        "avg": 171,
+        "label": "24包( 4,100 )  平均每包( 171 )"
+      },
+      {
+        "qty": 30,
+        "total": 5096,
+        "avg": 170,
+        "label": "30包( 5,096 )  平均每包( 170 )"
+      }
+    ]
+  },
+  {
+    "name": "依琦匠子 古法漢方蜂梨糖系列【宅配】",
+    "code": "HO00380240002",
+    "price": 250,
+    "bonus": 0,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/HO00380240002/17138608822262.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 310,
+        "avg": 310,
+        "label": "1罐( 310 )  平均每罐( 310 )"
+      },
+      {
+        "qty": 2,
+        "total": 560,
+        "avg": 280,
+        "label": "2罐( 560 )  平均每罐( 280 )"
+      },
+      {
+        "qty": 3,
+        "total": 810,
+        "avg": 270,
+        "label": "3罐( 810 )  平均每罐( 270 )"
+      },
+      {
+        "qty": 4,
+        "total": 1000,
+        "avg": 250,
+        "label": "4罐( 1,000 )  平均每罐( 250 )"
+      }
+    ]
+  },
+  {
+    "name": "大頭叔叔 穀物水果麥片 栗香紫薯",
+    "code": "CH00038Y26D0301M0033S01",
+    "price": 260,
+    "bonus": 33,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00038220001/16673605357134.jpg",
+    "plans": [
+      {
+        "qty": 2,
+        "total": 620,
+        "avg": 310,
+        "label": "2包( 620 )  平均每包( 310 )"
+      },
+      {
+        "qty": 4,
+        "total": 1170,
+        "avg": 293,
+        "label": "4包( 1,170 )  平均每包( 293 )"
+      },
+      {
+        "qty": 6,
+        "total": 1690,
+        "avg": 282,
+        "label": "6包( 1,690 )  平均每包( 282 )"
+      },
+      {
+        "qty": 8,
+        "total": 2210,
+        "avg": 277,
+        "label": "8包( 2,210 )  平均每包( 277 )"
+      },
+      {
+        "qty": 10,
+        "total": 2730,
+        "avg": 273,
+        "label": "10包( 2,730 )  平均每包( 273 )"
+      },
+      {
+        "qty": 12,
+        "total": 3250,
+        "avg": 271,
+        "label": "12包( 3,250 )  平均每包( 271 )"
+      },
+      {
+        "qty": 18,
+        "total": 4840,
+        "avg": 269,
+        "label": "18包( 4,840 )  平均每包( 269 )"
+      },
+      {
+        "qty": 24,
+        "total": 6400,
+        "avg": 267,
+        "label": "24包( 6,400 )  平均每包( 267 )"
+      },
+      {
+        "qty": 48,
+        "total": 12480,
+        "avg": 260,
+        "label": "48包( 12,480 )  平均每包( 260 )"
+      }
+    ]
+  },
+  {
+    "name": "【快樂價】明治 頂級和牛肉乾（原味／麻辣）",
+    "code": "MI00167250001",
+    "price": 230,
+    "bonus": 0,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/MI00167240002/17320736010878.jpg",
+    "plans": [
+      {
+        "qty": 30,
+        "total": 6900,
+        "avg": 230,
+        "label": "30包( 6,900 )  平均每包( 230 )"
+      }
+    ]
+  },
+  {
+    "name": "良實糧食 海食系 小辛甘小卷燒／碳炙郎蜜魷魚【自取】",
+    "code": "LI00044250002",
+    "price": 165,
+    "bonus": 0,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/LI00044250002/17467775699404.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 165,
+        "avg": 165,
+        "label": "1包( 165 )  平均每包( 165 )"
+      },
+      {
+        "qty": 2,
+        "total": 330,
+        "avg": 165,
+        "label": "2包( 330 )  平均每包( 165 )"
+      },
+      {
+        "qty": 4,
+        "total": 660,
+        "avg": 165,
+        "label": "4包( 660 )  平均每包( 165 )"
+      },
+      {
+        "qty": 8,
+        "total": 1320,
+        "avg": 165,
+        "label": "8包( 1,320 )  平均每包( 165 )"
+      },
+      {
+        "qty": 12,
+        "total": 1980,
+        "avg": 165,
+        "label": "12包( 1,980 )  平均每包( 165 )"
+      },
+      {
+        "qty": 20,
+        "total": 3300,
+        "avg": 165,
+        "label": "20包( 3,300 )  平均每包( 165 )"
+      }
+    ]
+  },
+  {
+    "name": "【快樂價】良實糧食 海食系 HOHO魷厚（辣味）",
+    "code": "LI00044250009",
+    "price": 158,
+    "bonus": 0,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/LI00044240002/17153101356362.jpg",
+    "plans": [
+      {
+        "qty": 20,
+        "total": 3160,
+        "avg": 158,
+        "label": "20包( 3,160 )  平均每包( 158 )"
+      },
+      {
+        "qty": 40,
+        "total": 6320,
+        "avg": 158,
+        "label": "40包( 6,320 )  平均每包( 158 )"
+      }
+    ]
+  },
+  {
+    "name": "【快樂價】自然主意 奇亞籽 家庭號",
+    "code": "WE00021250001",
+    "price": 380,
+    "bonus": 0,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/WE00021200004/16403165937355.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 380,
+        "avg": 380,
+        "label": "1罐( 380 )  平均每罐( 380 )"
+      }
+    ]
+  },
+  {
+    "name": "【快樂價】好食光 台灣豬辛【自取】",
+    "code": "SH00348Y25D1103M0000S01",
+    "price": 150,
+    "bonus": 0,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/SH00348250006/17643143826991.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 150,
+        "avg": 150,
+        "label": "1盒( 150 )  平均每盒( 150 )"
+      },
+      {
+        "qty": 2,
+        "total": 300,
+        "avg": 150,
+        "label": "2盒( 300 )  平均每盒( 150 )"
+      }
+    ]
+  },
+  {
+    "name": "【快樂價】良實糧食 海食系 碳炙郎蜜魷魚",
+    "code": "LI00044250007",
+    "price": 175,
+    "bonus": 0,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/LI00044250002/17467775699404.jpg",
+    "plans": [
+      {
+        "qty": 50,
+        "total": 8750,
+        "avg": 175,
+        "label": "50包( 8,750 )  平均每包( 175 )"
+      }
+    ]
+  },
+  {
+    "name": "良實糧食 海食系 HOHO魷厚 20包／箱（原味／辣味）【宅配】",
+    "code": "LI00044240003",
+    "price": 3000,
+    "bonus": 0,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/LI00044240002/17153101356362.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 3000,
+        "avg": 3000,
+        "label": "1箱( 3,000 )  平均每箱( 3,000 )"
+      }
+    ]
+  },
+  {
+    "name": "健康時代 台灣燒仙草【自取】",
+    "code": "TA00320260001",
+    "price": 140,
+    "bonus": 0,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/TA00320260001/17702739342374.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 140,
+        "avg": 140,
+        "label": "1袋( 140 )  平均每袋( 140 )"
+      },
+      {
+        "qty": 2,
+        "total": 280,
+        "avg": 140,
+        "label": "2袋( 280 )  平均每袋( 140 )"
+      },
+      {
+        "qty": 3,
+        "total": 420,
+        "avg": 140,
+        "label": "3袋( 420 )  平均每袋( 140 )"
+      }
+    ]
+  },
+  {
+    "name": "公主駕到氣泡水蜜桃果醋 12瓶／箱",
+    "code": "BA00291Y24D046M0059S01",
+    "price": 1180,
+    "bonus": 59,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/BA00291240001/17072862731959.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1180,
+        "avg": 1180,
+        "label": "1箱( 1,180 )  平均每箱( 1,180 )"
+      }
+    ]
+  },
+  {
+    "name": "Dan D Pak 丹帝 鹹味帶皮腰果400g【宅配】",
+    "code": "DA00500250002",
+    "price": 299,
+    "bonus": 0,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/DA00500250002/176829416132.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 365,
+        "avg": 365,
+        "label": "1罐( 365 )  平均每罐( 365 )"
+      },
+      {
+        "qty": 2,
+        "total": 630,
+        "avg": 315,
+        "label": "2罐( 630 )  平均每罐( 315 )"
+      },
+      {
+        "qty": 3,
+        "total": 895,
+        "avg": 299,
+        "label": "3罐( 895 )  平均每罐( 299 )"
+      }
+    ]
+  },
+  {
+    "name": "自然主意 雪梨銀耳燕窩凍乾",
+    "code": "DI00487Y26D0115M0061S01",
+    "price": 899,
+    "bonus": 61,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/DI00487260001/17677522787934.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1029,
+        "avg": 1029,
+        "label": "1盒( 1,029 )  平均每盒( 1,029 )"
+      },
+      {
+        "qty": 2,
+        "total": 1928,
+        "avg": 964,
+        "label": "2盒( 1,928 )  平均每盒( 964 )"
+      },
+      {
+        "qty": 4,
+        "total": 3726,
+        "avg": 932,
+        "label": "4盒( 3,726 )  平均每盒( 932 )"
+      },
+      {
+        "qty": 6,
+        "total": 5524,
+        "avg": 921,
+        "label": "6盒( 5,524 )  平均每盒( 921 )"
+      },
+      {
+        "qty": 8,
+        "total": 7322,
+        "avg": 916,
+        "label": "8盒( 7,322 )  平均每盒( 916 )"
+      },
+      {
+        "qty": 12,
+        "total": 10788,
+        "avg": 899,
+        "label": "12盒( 10,788 )  平均每盒( 899 )"
+      }
+    ]
+  },
+  {
+    "name": "恬心姐姐 歡喜饗宴組 12盒／組（牛軋糖／雪花餅）",
+    "code": "SH00378Y25D1023M0108S01",
+    "price": 2460,
+    "bonus": 108,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/SH00378250004/17617090929301.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 2460,
+        "avg": 2460,
+        "label": "1組( 2,460 )  平均每組( 2,460 )"
+      }
+    ]
+  },
+  {
+    "name": "良實糧食 海食系 小辛甘小卷燒／碳炙郎蜜魷魚 50包／箱【宅配】",
+    "code": "LI00044250004",
+    "price": 8250,
+    "bonus": 0,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/LI00044250002/17467775699404.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 8250,
+        "avg": 8250,
+        "label": "1箱( 8,250 )  平均每箱( 8,250 )"
+      }
+    ]
+  },
+  {
+    "name": "【快樂價】良實糧食 海食系 小辛甘小卷燒",
+    "code": "LI00044250006",
+    "price": 175,
+    "bonus": 0,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/LI00044250002/17467775699404.jpg",
+    "plans": [
+      {
+        "qty": 50,
+        "total": 8750,
+        "avg": 175,
+        "label": "50包( 8,750 )  平均每包( 175 )"
+      }
+    ]
+  },
+  {
+    "name": "健康時代 台灣燒仙草",
+    "code": "TA00320260002",
+    "price": 162,
+    "bonus": 0,
+    "category": "挖美食",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/TA00320260002/17702742777095.jpg",
+    "plans": [
+      {
+        "qty": 2,
+        "total": 380,
+        "avg": 190,
+        "label": "2袋( 380 )  平均每袋( 190 )"
+      },
+      {
+        "qty": 4,
+        "total": 690,
+        "avg": 173,
+        "label": "4袋( 690 )  平均每袋( 173 )"
+      },
+      {
+        "qty": 6,
+        "total": 970,
+        "avg": 162,
+        "label": "6袋( 970 )  平均每袋( 162 )"
+      }
+    ]
+  },
+  {
+    "name": "STARSKY AB100 MINI-2 10000mAh 超輕巧自帶雙線行動電源",
+    "code": "SI00475Y25D0701M0017S01",
+    "price": 740,
+    "bonus": 17,
+    "category": "挖3C",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/SI00475250005/17598150292961.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 740,
+        "avg": 740,
+        "label": "1台( 740 )  平均每台( 740 )"
+      },
+      {
+        "qty": 2,
+        "total": 1480,
+        "avg": 740,
+        "label": "2台( 1,480 )  平均每台( 740 )"
+      }
+    ]
+  },
+  {
+    "name": "【快樂價】STARSKY AB100 MINI-2 10000mAh 超輕巧自帶雙線行動電源",
+    "code": "SI00475250006",
+    "price": 660,
+    "bonus": 0,
+    "category": "挖3C",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/SI00475250005/17526514671445.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 660,
+        "avg": 660,
+        "label": "1台( 660 )  平均每台( 660 )"
+      },
+      {
+        "qty": 2,
+        "total": 1320,
+        "avg": 660,
+        "label": "2台( 1,320 )  平均每台( 660 )"
+      },
+      {
+        "qty": 3,
+        "total": 1980,
+        "avg": 660,
+        "label": "3台( 1,980 )  平均每台( 660 )"
+      }
+    ]
+  },
+  {
+    "name": "KINYO 免手持肩頸揉捏按摩器 IAM-2706",
+    "code": "NA00268Y24D081M0047S01",
+    "price": 1980,
+    "bonus": 47,
+    "category": "挖3C",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/NA00268240010/17103827814634.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1980,
+        "avg": 1980,
+        "label": "1台( 1,980 )  平均每台( 1,980 )"
+      }
+    ]
+  },
+  {
+    "name": "KINYO 溫感煥顏導入刮痧儀 AMR-205",
+    "code": "NA00268260007",
+    "price": 699,
+    "bonus": 0,
+    "category": "挖3C",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/NA00268260007/17709716011393.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 699,
+        "avg": 699,
+        "label": "1台( 699 )  平均每台( 699 )"
+      },
+      {
+        "qty": 2,
+        "total": 1398,
+        "avg": 699,
+        "label": "2台( 1,398 )  平均每台( 699 )"
+      }
+    ]
+  },
+  {
+    "name": "KINYO 舒活經絡梳刮痧儀 AMR-206",
+    "code": "NA00268Y26D0305M0025S01",
+    "price": 795,
+    "bonus": 25,
+    "category": "挖3C",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/NA00268260005/17709700879082.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 795,
+        "avg": 795,
+        "label": "1台( 795 )  平均每台( 795 )"
+      }
+    ]
+  },
+  {
+    "name": "KINYO 舒活經絡梳刮痧儀 2台／組 AMR-206",
+    "code": "NA00268Y26D0305M0076S01",
+    "price": 1590,
+    "bonus": 76,
+    "category": "挖3C",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/NA00268260005/17709700879082.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1590,
+        "avg": 1590,
+        "label": "1組( 1,590 )  平均每組( 1,590 )"
+      }
+    ]
+  },
+  {
+    "name": "Double Power 專利7+1雙效益生菌",
+    "code": "JU00027Y25D0818M0340S01",
+    "price": 2220,
+    "bonus": 340,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JU00027250124/17552491111645.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 2320,
+        "avg": 2320,
+        "label": "1盒( 2,320 )  平均每盒( 2,320 )"
+      },
+      {
+        "qty": 2,
+        "total": 4540,
+        "avg": 2270,
+        "label": "2盒( 4,540 )  平均每盒( 2,270 )"
+      },
+      {
+        "qty": 3,
+        "total": 6760,
+        "avg": 2254,
+        "label": "3盒( 6,760 )  平均每盒( 2,254 )"
+      },
+      {
+        "qty": 4,
+        "total": 9010,
+        "avg": 2253,
+        "label": "4盒( 9,010 )  平均每盒( 2,253 )"
+      },
+      {
+        "qty": 6,
+        "total": 13450,
+        "avg": 2242,
+        "label": "6盒( 13,450 )  平均每盒( 2,242 )"
+      },
+      {
+        "qty": 8,
+        "total": 17760,
+        "avg": 2220,
+        "label": "8盒( 17,760 )  平均每盒( 2,220 )"
+      }
+    ]
+  },
+  {
+    "name": "Double Power 原粹藍藻錠 300顆／瓶",
+    "code": "JU00027Y23D001M0338S01",
+    "price": 2150,
+    "bonus": 338,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JU00027230015/17144633664145.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 2250,
+        "avg": 2250,
+        "label": "1瓶( 2,250 )  平均每瓶( 2,250 )"
+      },
+      {
+        "qty": 2,
+        "total": 4400,
+        "avg": 2200,
+        "label": "2瓶( 4,400 )  平均每瓶( 2,200 )"
+      },
+      {
+        "qty": 3,
+        "total": 6550,
+        "avg": 2184,
+        "label": "3瓶( 6,550 )  平均每瓶( 2,184 )"
+      },
+      {
+        "qty": 4,
+        "total": 8700,
+        "avg": 2175,
+        "label": "4瓶( 8,700 )  平均每瓶( 2,175 )"
+      },
+      {
+        "qty": 5,
+        "total": 10850,
+        "avg": 2170,
+        "label": "5瓶( 10,850 )  平均每瓶( 2,170 )"
+      },
+      {
+        "qty": 6,
+        "total": 13000,
+        "avg": 2167,
+        "label": "6瓶( 13,000 )  平均每瓶( 2,167 )"
+      },
+      {
+        "qty": 7,
+        "total": 15150,
+        "avg": 2165,
+        "label": "7瓶( 15,150 )  平均每瓶( 2,165 )"
+      },
+      {
+        "qty": 8,
+        "total": 17200,
+        "avg": 2150,
+        "label": "8瓶( 17,200 )  平均每瓶( 2,150 )"
+      }
+    ]
+  },
+  {
+    "name": "速疾通膠囊",
+    "code": "JU00027Y24D047M0633S01",
+    "price": 3960,
+    "bonus": 633,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JU00027240022/17169484910818.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 4060,
+        "avg": 4060,
+        "label": "1罐( 4,060 )  平均每罐( 4,060 )"
+      },
+      {
+        "qty": 2,
+        "total": 7920,
+        "avg": 3960,
+        "label": "2罐( 7,920 )  平均每罐( 3,960 )"
+      },
+      {
+        "qty": 3,
+        "total": 11880,
+        "avg": 3960,
+        "label": "3罐( 11,880 )  平均每罐( 3,960 )"
+      },
+      {
+        "qty": 4,
+        "total": 15840,
+        "avg": 3960,
+        "label": "4罐( 15,840 )  平均每罐( 3,960 )"
+      }
+    ]
+  },
+  {
+    "name": "幸福鱸魚 粉橘版",
+    "code": "SH00169Y25D0703M0246S01",
+    "price": 1782,
+    "bonus": 246,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/SH00169250068/17580963820359.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1860,
+        "avg": 1860,
+        "label": "1盒( 1,860 )  平均每盒( 1,860 )"
+      },
+      {
+        "qty": 2,
+        "total": 3620,
+        "avg": 1810,
+        "label": "2盒( 3,620 )  平均每盒( 1,810 )"
+      },
+      {
+        "qty": 3,
+        "total": 5380,
+        "avg": 1794,
+        "label": "3盒( 5,380 )  平均每盒( 1,794 )"
+      },
+      {
+        "qty": 4,
+        "total": 7140,
+        "avg": 1785,
+        "label": "4盒( 7,140 )  平均每盒( 1,785 )"
+      },
+      {
+        "qty": 6,
+        "total": 10690,
+        "avg": 1782,
+        "label": "6盒( 10,690 )  平均每盒( 1,782 )"
+      }
+    ]
+  },
+  {
+    "name": "Beauty Style 不油自主 油切發泡錠",
+    "code": "JU00027Y25D1226M0074S01",
+    "price": 540,
+    "bonus": 74,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JU00027250198/17669908061125.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 640,
+        "avg": 640,
+        "label": "1管( 640 )  平均每管( 640 )"
+      },
+      {
+        "qty": 2,
+        "total": 1180,
+        "avg": 590,
+        "label": "2管( 1,180 )  平均每管( 590 )"
+      },
+      {
+        "qty": 4,
+        "total": 2260,
+        "avg": 565,
+        "label": "4管( 2,260 )  平均每管( 565 )"
+      },
+      {
+        "qty": 6,
+        "total": 3340,
+        "avg": 557,
+        "label": "6管( 3,340 )  平均每管( 557 )"
+      },
+      {
+        "qty": 8,
+        "total": 4420,
+        "avg": 553,
+        "label": "8管( 4,420 )  平均每管( 553 )"
+      },
+      {
+        "qty": 10,
+        "total": 5500,
+        "avg": 550,
+        "label": "10管( 5,500 )  平均每管( 550 )"
+      },
+      {
+        "qty": 12,
+        "total": 6580,
+        "avg": 549,
+        "label": "12管( 6,580 )  平均每管( 549 )"
+      },
+      {
+        "qty": 18,
+        "total": 9820,
+        "avg": 546,
+        "label": "18管( 9,820 )  平均每管( 546 )"
+      },
+      {
+        "qty": 24,
+        "total": 13060,
+        "avg": 545,
+        "label": "24管( 13,060 )  平均每管( 545 )"
+      },
+      {
+        "qty": 32,
+        "total": 17280,
+        "avg": 540,
+        "label": "32管( 17,280 )  平均每管( 540 )"
+      }
+    ]
+  },
+  {
+    "name": "Double Power 纖歲茶系列",
+    "code": "JU00027Y24D193M0466S01",
+    "price": 3240,
+    "bonus": 466,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JU00027240071/1744191866883.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 3480,
+        "avg": 3480,
+        "label": "1盒( 3,480 )  平均每盒( 3,480 )"
+      },
+      {
+        "qty": 2,
+        "total": 6900,
+        "avg": 3450,
+        "label": "2盒( 6,900 )  平均每盒( 3,450 )"
+      },
+      {
+        "qty": 3,
+        "total": 10258,
+        "avg": 3420,
+        "label": "3盒( 10,258 )  平均每盒( 3,420 )"
+      },
+      {
+        "qty": 4,
+        "total": 12960,
+        "avg": 3240,
+        "label": "4盒( 12,960 )  平均每盒( 3,240 )"
+      }
+    ]
+  },
+  {
+    "name": "Beauty Style 水嫩模式 白皙加橙發泡錠 20錠／盒",
+    "code": "JU00027Y25D0516M0123S01",
+    "price": 880,
+    "bonus": 123,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JU00027250066/17478803160189.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 980,
+        "avg": 980,
+        "label": "1盒( 980 )  平均每盒( 980 )"
+      },
+      {
+        "qty": 2,
+        "total": 1860,
+        "avg": 930,
+        "label": "2盒( 1,860 )  平均每盒( 930 )"
+      },
+      {
+        "qty": 3,
+        "total": 2740,
+        "avg": 914,
+        "label": "3盒( 2,740 )  平均每盒( 914 )"
+      },
+      {
+        "qty": 4,
+        "total": 3620,
+        "avg": 905,
+        "label": "4盒( 3,620 )  平均每盒( 905 )"
+      },
+      {
+        "qty": 6,
+        "total": 5380,
+        "avg": 897,
+        "label": "6盒( 5,380 )  平均每盒( 897 )"
+      },
+      {
+        "qty": 8,
+        "total": 7040,
+        "avg": 880,
+        "label": "8盒( 7,040 )  平均每盒( 880 )"
+      }
+    ]
+  },
+  {
+    "name": "Double Power Super i 極視能葉黃素光漾素食膠囊（30顆／罐）",
+    "code": "JU00027Y21D001M0483S01",
+    "price": 2680,
+    "bonus": 483,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JU00027230009/17346858173475.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 2680,
+        "avg": 2680,
+        "label": "1罐( 2,680 )  平均每罐( 2,680 )"
+      },
+      {
+        "qty": 2,
+        "total": 5360,
+        "avg": 2680,
+        "label": "2罐( 5,360 )  平均每罐( 2,680 )"
+      },
+      {
+        "qty": 3,
+        "total": 8040,
+        "avg": 2680,
+        "label": "3罐( 8,040 )  平均每罐( 2,680 )"
+      },
+      {
+        "qty": 4,
+        "total": 10720,
+        "avg": 2680,
+        "label": "4罐( 10,720 )  平均每罐( 2,680 )"
+      }
+    ]
+  },
+  {
+    "name": "Double Power 專利法國藻油 510-Y DHA",
+    "code": "JU00027Y23D100M0221S01",
+    "price": 1580,
+    "bonus": 221,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JU00027230040/17465950299241.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1680,
+        "avg": 1680,
+        "label": "1盒( 1,680 )  平均每盒( 1,680 )"
+      },
+      {
+        "qty": 2,
+        "total": 3260,
+        "avg": 1630,
+        "label": "2盒( 3,260 )  平均每盒( 1,630 )"
+      },
+      {
+        "qty": 3,
+        "total": 4840,
+        "avg": 1614,
+        "label": "3盒( 4,840 )  平均每盒( 1,614 )"
+      },
+      {
+        "qty": 4,
+        "total": 6420,
+        "avg": 1605,
+        "label": "4盒( 6,420 )  平均每盒( 1,605 )"
+      },
+      {
+        "qty": 6,
+        "total": 9580,
+        "avg": 1597,
+        "label": "6盒( 9,580 )  平均每盒( 1,597 )"
+      },
+      {
+        "qty": 8,
+        "total": 12770,
+        "avg": 1597,
+        "label": "8盒( 12,770 )  平均每盒( 1,597 )"
+      },
+      {
+        "qty": 10,
+        "total": 15800,
+        "avg": 1580,
+        "label": "10盒( 15,800 )  平均每盒( 1,580 )"
+      }
+    ]
+  },
+  {
+    "name": "Pures Select 南極冰鑽磷蝦油 家庭號（200粒／罐）",
+    "code": "JU00027Y23D001M1432S01",
+    "price": 9680,
+    "bonus": 1432,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JU00027230010/17345152508932.jpg",
+    "plans": [
+      {
+        "qty": 2,
+        "total": 19360,
+        "avg": 9680,
+        "label": "2罐( 19,360 )  平均每罐( 9,680 )"
+      },
+      {
+        "qty": 3,
+        "total": 29040,
+        "avg": 9680,
+        "label": "3罐( 29,040 )  平均每罐( 9,680 )"
+      },
+      {
+        "qty": 4,
+        "total": 38720,
+        "avg": 9680,
+        "label": "4罐( 38,720 )  平均每罐( 9,680 )"
+      }
+    ]
+  },
+  {
+    "name": "幸福奇想 黑花粉 Blackpollen",
+    "code": "SH00169Y23D194M0361S01",
+    "price": 2580,
+    "bonus": 361,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/SH00169240055/17218202158293.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 3000,
+        "avg": 3000,
+        "label": "1瓶( 3,000 )  平均每瓶( 3,000 )"
+      },
+      {
+        "qty": 2,
+        "total": 5760,
+        "avg": 2880,
+        "label": "2瓶( 5,760 )  平均每瓶( 2,880 )"
+      },
+      {
+        "qty": 3,
+        "total": 8250,
+        "avg": 2750,
+        "label": "3瓶( 8,250 )  平均每瓶( 2,750 )"
+      },
+      {
+        "qty": 8,
+        "total": 20640,
+        "avg": 2580,
+        "label": "8瓶( 20,640 )  平均每瓶( 2,580 )"
+      }
+    ]
+  },
+  {
+    "name": "Double Power 原粹藍藻錠 30顆／瓶",
+    "code": "JU00027Y23D128M0038S01",
+    "price": 270,
+    "bonus": 38,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JU00027230065/16886275880294.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 370,
+        "avg": 370,
+        "label": "1瓶( 370 )  平均每瓶( 370 )"
+      },
+      {
+        "qty": 2,
+        "total": 640,
+        "avg": 320,
+        "label": "2瓶( 640 )  平均每瓶( 320 )"
+      },
+      {
+        "qty": 4,
+        "total": 1180,
+        "avg": 295,
+        "label": "4瓶( 1,180 )  平均每瓶( 295 )"
+      },
+      {
+        "qty": 8,
+        "total": 2260,
+        "avg": 283,
+        "label": "8瓶( 2,260 )  平均每瓶( 283 )"
+      },
+      {
+        "qty": 12,
+        "total": 3340,
+        "avg": 279,
+        "label": "12瓶( 3,340 )  平均每瓶( 279 )"
+      },
+      {
+        "qty": 16,
+        "total": 4420,
+        "avg": 277,
+        "label": "16瓶( 4,420 )  平均每瓶( 277 )"
+      },
+      {
+        "qty": 20,
+        "total": 5400,
+        "avg": 270,
+        "label": "20瓶( 5,400 )  平均每瓶( 270 )"
+      }
+    ]
+  },
+  {
+    "name": "體驗有感 益生菌20入",
+    "code": "JU00027Y25D0821M0106S01",
+    "price": 880,
+    "bonus": 106,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JU00027250096/17552595522881.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 880,
+        "avg": 880,
+        "label": "1盒( 880 )  平均每盒( 880 )"
+      }
+    ]
+  },
+  {
+    "name": "Double Power Super i 極視能葉黃素光漾素食膠囊（180顆／罐）",
+    "code": "JU00027Y24D339M1604S01",
+    "price": 11800,
+    "bonus": 1604,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JU00027240161/17706930186816.jpg",
+    "plans": [
+      {
+        "qty": 2,
+        "total": 23600,
+        "avg": 11800,
+        "label": "2罐( 23,600 )  平均每罐( 11,800 )"
+      },
+      {
+        "qty": 3,
+        "total": 35400,
+        "avg": 11800,
+        "label": "3罐( 35,400 )  平均每罐( 11,800 )"
+      },
+      {
+        "qty": 4,
+        "total": 47200,
+        "avg": 11800,
+        "label": "4罐( 47,200 )  平均每罐( 11,800 )"
+      }
+    ]
+  },
+  {
+    "name": "幸福鱸魚2+1組（粉橘版）",
+    "code": "SH00169Y25D0703M0720S01",
+    "price": 5299,
+    "bonus": 720,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/SH00169250069/17580969261392.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 5299,
+        "avg": 5299,
+        "label": "1組( 5,299 )  平均每組( 5,299 )"
+      }
+    ]
+  },
+  {
+    "name": "Meta Water 貴珀香檳風味 6瓶／組",
+    "code": "SH00169Y25D0423M0071S01",
+    "price": 888,
+    "bonus": 71,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/SH00169250047/17724338147113.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 888,
+        "avg": 888,
+        "label": "1組( 888 )  平均每組( 888 )"
+      }
+    ]
+  },
+  {
+    "name": "Meta Water 貴珀香檳風味 24瓶／箱",
+    "code": "SH00169Y25D0423M0470S01",
+    "price": 3360,
+    "bonus": 470,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/SH00169250048/17724337787086.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 3672,
+        "avg": 3672,
+        "label": "1箱( 3,672 )  平均每箱( 3,672 )"
+      },
+      {
+        "qty": 2,
+        "total": 7104,
+        "avg": 3552,
+        "label": "2箱( 7,104 )  平均每箱( 3,552 )"
+      },
+      {
+        "qty": 4,
+        "total": 13440,
+        "avg": 3360,
+        "label": "4箱( 13,440 )  平均每箱( 3,360 )"
+      }
+    ]
+  },
+  {
+    "name": "幸福鱸魚 科技銀",
+    "code": "SH00169Y25D0917M0246S01",
+    "price": 1760,
+    "bonus": 246,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/SH00169250080/17580776335404.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1860,
+        "avg": 1860,
+        "label": "1盒( 1,860 )  平均每盒( 1,860 )"
+      },
+      {
+        "qty": 2,
+        "total": 3620,
+        "avg": 1810,
+        "label": "2盒( 3,620 )  平均每盒( 1,810 )"
+      },
+      {
+        "qty": 3,
+        "total": 5380,
+        "avg": 1794,
+        "label": "3盒( 5,380 )  平均每盒( 1,794 )"
+      },
+      {
+        "qty": 4,
+        "total": 7140,
+        "avg": 1785,
+        "label": "4盒( 7,140 )  平均每盒( 1,785 )"
+      },
+      {
+        "qty": 6,
+        "total": 10690,
+        "avg": 1782,
+        "label": "6盒( 10,690 )  平均每盒( 1,782 )"
+      },
+      {
+        "qty": 10,
+        "total": 17600,
+        "avg": 1760,
+        "label": "10盒( 17,600 )  平均每盒( 1,760 )"
+      }
+    ]
+  },
+  {
+    "name": "【限時特惠專案】夜酵素薑黃錠PLUS+80錠1盒＋30錠1盒",
+    "code": "CH00208Y25D0529M0701S01",
+    "price": 5480,
+    "bonus": 701,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00208250014/17690523145513.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 5480,
+        "avg": 5480,
+        "label": "1組( 5,480 )  平均每組( 5,480 )"
+      },
+      {
+        "qty": 2,
+        "total": 10960,
+        "avg": 5480,
+        "label": "2組( 10,960 )  平均每組( 5,480 )"
+      }
+    ]
+  },
+  {
+    "name": "愛比堤 女王錠3個月養美組",
+    "code": "AI00039Y24D242M3672S01",
+    "price": 27000,
+    "bonus": 3672,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/AI00039230023/17060887875415.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 27000,
+        "avg": 27000,
+        "label": "1組( 27,000 )  平均每組( 27,000 )"
+      }
+    ]
+  },
+  {
+    "name": "【速疾通健康任務】速疾通膠囊2瓶／組",
+    "code": "JU00027Y25D0411M1267S01",
+    "price": 7920,
+    "bonus": 1267,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JU00027250038/17619041084342.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 7920,
+        "avg": 7920,
+        "label": "1組( 7,920 )  平均每組( 7,920 )"
+      }
+    ]
+  },
+  {
+    "name": "Double Berry 漫悅莓素食膠囊",
+    "code": "JU00027Y24D0193M0445S01",
+    "price": 3180,
+    "bonus": 445,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JU00027230081/16953719264294.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 3280,
+        "avg": 3280,
+        "label": "1盒( 3,280 )  平均每盒( 3,280 )"
+      },
+      {
+        "qty": 2,
+        "total": 6460,
+        "avg": 3230,
+        "label": "2盒( 6,460 )  平均每盒( 3,230 )"
+      },
+      {
+        "qty": 3,
+        "total": 9640,
+        "avg": 3214,
+        "label": "3盒( 9,640 )  平均每盒( 3,214 )"
+      },
+      {
+        "qty": 4,
+        "total": 12820,
+        "avg": 3205,
+        "label": "4盒( 12,820 )  平均每盒( 3,205 )"
+      },
+      {
+        "qty": 5,
+        "total": 16000,
+        "avg": 3200,
+        "label": "5盒( 16,000 )  平均每盒( 3,200 )"
+      },
+      {
+        "qty": 6,
+        "total": 19080,
+        "avg": 3180,
+        "label": "6盒( 19,080 )  平均每盒( 3,180 )"
+      }
+    ]
+  },
+  {
+    "name": "Double Power Super i 極視能14粒行動補給盒",
+    "code": "JU00027Y25D035M0161S01",
+    "price": 1150,
+    "bonus": 161,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JU00027240138/17337346932676.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1250,
+        "avg": 1250,
+        "label": "1盒( 1,250 )  平均每盒( 1,250 )"
+      },
+      {
+        "qty": 4,
+        "total": 4600,
+        "avg": 1150,
+        "label": "4盒( 4,600 )  平均每盒( 1,150 )"
+      }
+    ]
+  },
+  {
+    "name": "【限時特惠專案】頂規液態維生素D3 365滴 3入組",
+    "code": "CH00338Y26D0313M0102S01",
+    "price": 1350,
+    "bonus": 102,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00338260003/17676923492228.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1350,
+        "avg": 1350,
+        "label": "1組( 1,350 )  平均每組( 1,350 )"
+      },
+      {
+        "qty": 2,
+        "total": 2700,
+        "avg": 1350,
+        "label": "2組( 2,700 )  平均每組( 1,350 )"
+      }
+    ]
+  },
+  {
+    "name": "【限時特惠專案】專利7+1雙效益生菌1盒＋幸福鱸魚 粉橘版1盒",
+    "code": "LU00000Y25D0000M0541S01",
+    "price": 3980,
+    "bonus": 541,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/LU00000250031/17738165927155.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 3980,
+        "avg": 3980,
+        "label": "1組( 3,980 )  平均每組( 3,980 )"
+      },
+      {
+        "qty": 2,
+        "total": 7960,
+        "avg": 3980,
+        "label": "2組( 7,960 )  平均每組( 3,980 )"
+      },
+      {
+        "qty": 3,
+        "total": 11940,
+        "avg": 3980,
+        "label": "3組( 11,940 )  平均每組( 3,980 )"
+      }
+    ]
+  },
+  {
+    "name": "【限時特惠專案】速疾通膠囊3＋1",
+    "code": "JU00027Y24D051M2534S01",
+    "price": 15840,
+    "bonus": 2534,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JU00027240020/17163482233557.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 15840,
+        "avg": 15840,
+        "label": "1組( 15,840 )  平均每組( 15,840 )"
+      }
+    ]
+  },
+  {
+    "name": "MinVita 百卡餐 太空科技包系列",
+    "code": "CH00313Y25D1107M0524S01",
+    "price": 3860,
+    "bonus": 524,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00313250040/17624251308055.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 3860,
+        "avg": 3860,
+        "label": "1袋( 3,860 )  平均每袋( 3,860 )"
+      },
+      {
+        "qty": 2,
+        "total": 7720,
+        "avg": 3860,
+        "label": "2袋( 7,720 )  平均每袋( 3,860 )"
+      },
+      {
+        "qty": 3,
+        "total": 11580,
+        "avg": 3860,
+        "label": "3袋( 11,580 )  平均每袋( 3,860 )"
+      }
+    ]
+  },
+  {
+    "name": "【限時特惠專案】白皙加橙發泡錠 3盒／組",
+    "code": "JU00027Y25D1002M0369S01",
+    "price": 2740,
+    "bonus": 369,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JU00027250147/17585357257432.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 2740,
+        "avg": 2740,
+        "label": "1組( 2,740 )  平均每組( 2,740 )"
+      }
+    ]
+  },
+  {
+    "name": "Double Power 小姿姿纖歲茶60包／盒",
+    "code": "JU00027Y24D354M0806S01",
+    "price": 5600,
+    "bonus": 806,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JU00027240101/17405613371748.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 6300,
+        "avg": 6300,
+        "label": "1盒( 6,300 )  平均每盒( 6,300 )"
+      },
+      {
+        "qty": 2,
+        "total": 11900,
+        "avg": 5950,
+        "label": "2盒( 11,900 )  平均每盒( 5,950 )"
+      },
+      {
+        "qty": 3,
+        "total": 16800,
+        "avg": 5600,
+        "label": "3盒( 16,800 )  平均每盒( 5,600 )"
+      }
+    ]
+  },
+  {
+    "name": "Simply新普利 夜酵素薑黃錠PLUS+（30錠／盒）",
+    "code": "CH00208Y25D0529M0219S01",
+    "price": 1600,
+    "bonus": 219,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00208250006/17395239190746.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1700,
+        "avg": 1700,
+        "label": "1盒( 1,700 )  平均每盒( 1,700 )"
+      },
+      {
+        "qty": 2,
+        "total": 3300,
+        "avg": 1650,
+        "label": "2盒( 3,300 )  平均每盒( 1,650 )"
+      },
+      {
+        "qty": 3,
+        "total": 4900,
+        "avg": 1634,
+        "label": "3盒( 4,900 )  平均每盒( 1,634 )"
+      },
+      {
+        "qty": 4,
+        "total": 6500,
+        "avg": 1625,
+        "label": "4盒( 6,500 )  平均每盒( 1,625 )"
+      },
+      {
+        "qty": 6,
+        "total": 9700,
+        "avg": 1617,
+        "label": "6盒( 9,700 )  平均每盒( 1,617 )"
+      },
+      {
+        "qty": 8,
+        "total": 12800,
+        "avg": 1600,
+        "label": "8盒( 12,800 )  平均每盒( 1,600 )"
+      }
+    ]
+  },
+  {
+    "name": "Simply新普利 夜酵素薑黃錠PLUS+（80錠／盒）",
+    "code": "CH00208Y25D0529M0496S01",
+    "price": 3880,
+    "bonus": 496,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00208250005/17399442066701.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 3980,
+        "avg": 3980,
+        "label": "1盒( 3,980 )  平均每盒( 3,980 )"
+      },
+      {
+        "qty": 2,
+        "total": 7860,
+        "avg": 3930,
+        "label": "2盒( 7,860 )  平均每盒( 3,930 )"
+      },
+      {
+        "qty": 4,
+        "total": 15520,
+        "avg": 3880,
+        "label": "4盒( 15,520 )  平均每盒( 3,880 )"
+      }
+    ]
+  },
+  {
+    "name": "【快樂價】頂規液態維生素D3 365滴（15ml／瓶）",
+    "code": "CH00338260003",
+    "price": 350,
+    "bonus": 0,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00338260003/17676923492228.jpg",
+    "plans": [
+      {
+        "qty": 4,
+        "total": 1400,
+        "avg": 350,
+        "label": "4瓶( 1,400 )  平均每瓶( 350 )"
+      }
+    ]
+  },
+  {
+    "name": "【限時特惠專案】纖歲茶系列30包1盒＋不油自主1管",
+    "code": "JU00027Y25D0930M0541S01",
+    "price": 3980,
+    "bonus": 541,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JU00027240071/1744191866883.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 3980,
+        "avg": 3980,
+        "label": "1組( 3,980 )  平均每組( 3,980 )"
+      }
+    ]
+  },
+  {
+    "name": "幸福鱸魚2+1組（科技銀）",
+    "code": "SH00169Y25D0917M0720S01",
+    "price": 5299,
+    "bonus": 720,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/SH00169250081/17580778077817.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 5299,
+        "avg": 5299,
+        "label": "1組( 5,299 )  平均每組( 5,299 )"
+      }
+    ]
+  },
+  {
+    "name": "頂規液態維生素D3 365滴（15ml／瓶）",
+    "code": "CH00338Y26D0101M0049S01",
+    "price": 520,
+    "bonus": 49,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00338260003/17676923492228.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 620,
+        "avg": 620,
+        "label": "1瓶( 620 )  平均每瓶( 620 )"
+      },
+      {
+        "qty": 2,
+        "total": 1140,
+        "avg": 570,
+        "label": "2瓶( 1,140 )  平均每瓶( 570 )"
+      },
+      {
+        "qty": 3,
+        "total": 1660,
+        "avg": 554,
+        "label": "3瓶( 1,660 )  平均每瓶( 554 )"
+      },
+      {
+        "qty": 4,
+        "total": 2180,
+        "avg": 545,
+        "label": "4瓶( 2,180 )  平均每瓶( 545 )"
+      },
+      {
+        "qty": 5,
+        "total": 2600,
+        "avg": 520,
+        "label": "5瓶( 2,600 )  平均每瓶( 520 )"
+      }
+    ]
+  },
+  {
+    "name": "【十年有成】南極冰鑽磷蝦油 200粒1罐＋Meta Water 貴珀香檳風味1箱",
+    "code": "LU00000Y26D0311M1432S01",
+    "price": 10660,
+    "bonus": 1432,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/LU00000260007/17730380486749.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 10660,
+        "avg": 10660,
+        "label": "1組( 10,660 )  平均每組( 10,660 )"
+      }
+    ]
+  },
+  {
+    "name": "【十年有成】幸福鱸魚 粉橘版10盒＋Meta Water 貴珀香檳風味1箱",
+    "code": "LU00000Y26D0311M2464S01",
+    "price": 18480,
+    "bonus": 2464,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/LU00000260005/17730378411578.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 18480,
+        "avg": 18480,
+        "label": "1組( 18,480 )  平均每組( 18,480 )"
+      }
+    ]
+  },
+  {
+    "name": "【詩心瘋特惠案】 專利法國藻油60顆6盒",
+    "code": "JU00027Y26D0327M0741S01",
+    "price": 7680,
+    "bonus": 741,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JU00027230040/17465950299241.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 7680,
+        "avg": 7680,
+        "label": "1組( 7,680 )  平均每組( 7,680 )"
+      }
+    ]
+  },
+  {
+    "name": "【限時特惠專案】不油自主 油切發泡錠2管／組",
+    "code": "JU00027Y26D0101M0149S01",
+    "price": 1380,
+    "bonus": 149,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JU00027260023/17673351682312.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1380,
+        "avg": 1380,
+        "label": "1組( 1,380 )  平均每組( 1,380 )"
+      },
+      {
+        "qty": 2,
+        "total": 2760,
+        "avg": 1380,
+        "label": "2組( 2,760 )  平均每組( 1,380 )"
+      }
+    ]
+  },
+  {
+    "name": "【限時特惠專案】小姿姿纖歲茶60包1盒＋不油自主1管",
+    "code": "JU00027Y26D0112M0859S01",
+    "price": 6140,
+    "bonus": 859,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JU00027260002/17667269721937.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 6140,
+        "avg": 6140,
+        "label": "1組( 6,140 )  平均每組( 6,140 )"
+      }
+    ]
+  },
+  {
+    "name": "MinVita 百卡餐系列 100 Kcal Meal",
+    "code": "CH00313Y25D1106M0174S01",
+    "price": 1280,
+    "bonus": 174,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00313240019/17267266502428.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1600,
+        "avg": 1600,
+        "label": "1盒( 1,600 )  平均每盒( 1,600 )"
+      },
+      {
+        "qty": 2,
+        "total": 3000,
+        "avg": 1500,
+        "label": "2盒( 3,000 )  平均每盒( 1,500 )"
+      },
+      {
+        "qty": 3,
+        "total": 3970,
+        "avg": 1324,
+        "label": "3盒( 3,970 )  平均每盒( 1,324 )"
+      },
+      {
+        "qty": 10,
+        "total": 12800,
+        "avg": 1280,
+        "label": "10盒( 12,800 )  平均每盒( 1,280 )"
+      }
+    ]
+  },
+  {
+    "name": "【十年有成】專利7+1雙效益生菌5盒＋Meta Water 貴珀香檳風味1箱",
+    "code": "LU00000Y26D0311M1700S01",
+    "price": 12110,
+    "bonus": 1700,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/LU00000260002/17730372947577.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 12110,
+        "avg": 12110,
+        "label": "1組( 12,110 )  平均每組( 12,110 )"
+      }
+    ]
+  },
+  {
+    "name": "【十年有成】極視能葉黃素180顆1罐＋Meta Water 貴珀香檳風味1箱",
+    "code": "LU00000Y26D0311M1604S01",
+    "price": 12680,
+    "bonus": 1604,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/LU00000260003/17730377054777.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 12680,
+        "avg": 12680,
+        "label": "1組( 12,680 )  平均每組( 12,680 )"
+      }
+    ]
+  },
+  {
+    "name": "萃珍珠 PurePearl",
+    "code": "SH00169Y23D001M1033S01",
+    "price": 6980,
+    "bonus": 1033,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/SH00169220005/16408454437322.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 6980,
+        "avg": 6980,
+        "label": "1盒( 6,980 )  平均每盒( 6,980 )"
+      },
+      {
+        "qty": 2,
+        "total": 13960,
+        "avg": 6980,
+        "label": "2盒( 13,960 )  平均每盒( 6,980 )"
+      },
+      {
+        "qty": 3,
+        "total": 20940,
+        "avg": 6980,
+        "label": "3盒( 20,940 )  平均每盒( 6,980 )"
+      },
+      {
+        "qty": 4,
+        "total": 27920,
+        "avg": 6980,
+        "label": "4盒( 27,920 )  平均每盒( 6,980 )"
+      }
+    ]
+  },
+  {
+    "name": "【十年有成】夜酵素薑黃錠PLUS+80錠3盒＋Meta Water 貴珀香檳風味1箱",
+    "code": "LU00000Y26D0311M1488S01",
+    "price": 12620,
+    "bonus": 1488,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/LU00000260006/17730379886571.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 12620,
+        "avg": 12620,
+        "label": "1組( 12,620 )  平均每組( 12,620 )"
+      }
+    ]
+  },
+  {
+    "name": "【限時特惠專案】黑花粉1瓶＋益生菌20入1盒",
+    "code": "LU00000Y25D1101M0456S01",
+    "price": 3460,
+    "bonus": 456,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/LU00000250056/17621418716671.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 3460,
+        "avg": 3460,
+        "label": "1組( 3,460 )  平均每組( 3,460 )"
+      },
+      {
+        "qty": 2,
+        "total": 6920,
+        "avg": 3460,
+        "label": "2組( 6,920 )  平均每組( 3,460 )"
+      },
+      {
+        "qty": 3,
+        "total": 10380,
+        "avg": 3460,
+        "label": "3組( 10,380 )  平均每組( 3,460 )"
+      }
+    ]
+  },
+  {
+    "name": "【限時特惠專案】纖歲茶系列 30包6盒＋小姿姿 60包1盒",
+    "code": "JU00027Y26D0313M2316S01",
+    "price": 20990,
+    "bonus": 2316,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JU00027240071/17340721892498.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 20990,
+        "avg": 20990,
+        "label": "1組( 20,990 )  平均每組( 20,990 )"
+      }
+    ]
+  },
+  {
+    "name": "【十年有成】幸福奇想 黑花粉4瓶＋Meta Water 貴珀香檳風味1箱",
+    "code": "LU00000Y26D0311M1444S01",
+    "price": 11300,
+    "bonus": 1444,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/LU00000260004/17730377748758.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 11300,
+        "avg": 11300,
+        "label": "1組( 11,300 )  平均每組( 11,300 )"
+      }
+    ]
+  },
+  {
+    "name": "【限時特惠專案】夜酵素薑黃錠PLUS+30錠2盒＋不油自主1管",
+    "code": "CH00208Y26D0108M0448S01",
+    "price": 3740,
+    "bonus": 448,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00208260002/17681869915656.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 3740,
+        "avg": 3740,
+        "label": "1組( 3,740 )  平均每組( 3,740 )"
+      },
+      {
+        "qty": 2,
+        "total": 7480,
+        "avg": 3740,
+        "label": "2組( 7,480 )  平均每組( 3,740 )"
+      }
+    ]
+  },
+  {
+    "name": "【限時特惠專案】小姿姿纖歲茶 60包3盒＋14包3盒",
+    "code": "JU00027Y26D0313M2138S01",
+    "price": 19845,
+    "bonus": 2138,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JU00027240101/17405613371748.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 19845,
+        "avg": 19845,
+        "label": "1組( 19,845 )  平均每組( 19,845 )"
+      }
+    ]
+  },
+  {
+    "name": "【限時特惠專案】黑花粉1瓶＋幸福鱸魚 粉橘版1盒",
+    "code": "SH00169Y25D0606M0555S01",
+    "price": 4340,
+    "bonus": 555,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/SH00169250071/17580966199188.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 4340,
+        "avg": 4340,
+        "label": "1組( 4,340 )  平均每組( 4,340 )"
+      }
+    ]
+  },
+  {
+    "name": "【限時特惠專案】專利7+1雙效益生菌1盒＋阿瑪迪斯速舒修護組60ml 1瓶",
+    "code": "LU00000Y26D0323M0371S01",
+    "price": 2900,
+    "bonus": 371,
+    "category": "挖保健",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/LU00000250003/17738174280927.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 2900,
+        "avg": 2900,
+        "label": "1組( 2,900 )  平均每組( 2,900 )"
+      },
+      {
+        "qty": 2,
+        "total": 5800,
+        "avg": 2900,
+        "label": "2組( 5,800 )  平均每組( 2,900 )"
+      },
+      {
+        "qty": 3,
+        "total": 8700,
+        "avg": 2900,
+        "label": "3組( 8,700 )  平均每組( 2,900 )"
+      }
+    ]
+  },
+  {
+    "name": "LOVEISDERMA 愛斯德瑪 友善海洋防曬乳系列【宅配】",
+    "code": "CH00338Y24D291M0035S01",
+    "price": 490,
+    "bonus": 35,
+    "category": "挖美妝",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00338240003/17337966419227.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 590,
+        "avg": 590,
+        "label": "1瓶( 590 )  平均每瓶( 590 )"
+      },
+      {
+        "qty": 2,
+        "total": 1080,
+        "avg": 540,
+        "label": "2瓶( 1,080 )  平均每瓶( 540 )"
+      },
+      {
+        "qty": 4,
+        "total": 2060,
+        "avg": 515,
+        "label": "4瓶( 2,060 )  平均每瓶( 515 )"
+      },
+      {
+        "qty": 6,
+        "total": 3040,
+        "avg": 507,
+        "label": "6瓶( 3,040 )  平均每瓶( 507 )"
+      },
+      {
+        "qty": 8,
+        "total": 3920,
+        "avg": 490,
+        "label": "8瓶( 3,920 )  平均每瓶( 490 )"
+      }
+    ]
+  },
+  {
+    "name": "愛比堤 美麗臉書 60分鐘SPA涵氧面膜PLUS＋",
+    "code": "AI00039Y24D001M0198S01",
+    "price": 1600,
+    "bonus": 198,
+    "category": "挖美妝",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/AI00039230026/16993366295513.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1600,
+        "avg": 1600,
+        "label": "1盒( 1,600 )  平均每盒( 1,600 )"
+      },
+      {
+        "qty": 2,
+        "total": 3200,
+        "avg": 1600,
+        "label": "2盒( 3,200 )  平均每盒( 1,600 )"
+      },
+      {
+        "qty": 3,
+        "total": 4800,
+        "avg": 1600,
+        "label": "3盒( 4,800 )  平均每盒( 1,600 )"
+      },
+      {
+        "qty": 4,
+        "total": 6400,
+        "avg": 1600,
+        "label": "4盒( 6,400 )  平均每盒( 1,600 )"
+      },
+      {
+        "qty": 5,
+        "total": 8000,
+        "avg": 1600,
+        "label": "5盒( 8,000 )  平均每盒( 1,600 )"
+      },
+      {
+        "qty": 6,
+        "total": 9600,
+        "avg": 1600,
+        "label": "6盒( 9,600 )  平均每盒( 1,600 )"
+      },
+      {
+        "qty": 7,
+        "total": 11200,
+        "avg": 1600,
+        "label": "7盒( 11,200 )  平均每盒( 1,600 )"
+      },
+      {
+        "qty": 8,
+        "total": 12800,
+        "avg": 1600,
+        "label": "8盒( 12,800 )  平均每盒( 1,600 )"
+      }
+    ]
+  },
+  {
+    "name": "愛比堤 悅白美顏魔法鍺巾 2條／組【VIP會員禮】",
+    "code": "AI00039Y24D183M0338S01",
+    "price": 3160,
+    "bonus": 338,
+    "category": "挖美妝",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/AI00039240020/17750104431871.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 3160,
+        "avg": 3160,
+        "label": "1組( 3,160 )  平均每組( 3,160 )"
+      }
+    ]
+  },
+  {
+    "name": "巴黎香氛 亮白保濕隔離乳SPF50+ 120ml",
+    "code": "BA00182Y24D067M0059S01",
+    "price": 680,
+    "bonus": 59,
+    "category": "挖美妝",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/BA00182230005/1679290411893.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 780,
+        "avg": 780,
+        "label": "1支( 780 )  平均每支( 780 )"
+      },
+      {
+        "qty": 2,
+        "total": 1460,
+        "avg": 730,
+        "label": "2支( 1,460 )  平均每支( 730 )"
+      },
+      {
+        "qty": 4,
+        "total": 2820,
+        "avg": 705,
+        "label": "4支( 2,820 )  平均每支( 705 )"
+      },
+      {
+        "qty": 8,
+        "total": 5540,
+        "avg": 693,
+        "label": "8支( 5,540 )  平均每支( 693 )"
+      },
+      {
+        "qty": 12,
+        "total": 8160,
+        "avg": 680,
+        "label": "12支( 8,160 )  平均每支( 680 )"
+      }
+    ]
+  },
+  {
+    "name": "愛比堤 悅白美顏魔法鍺巾",
+    "code": "AI00039Y24D001M0169S01",
+    "price": 1580,
+    "bonus": 169,
+    "category": "挖美妝",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/AI00039230001/17007336237159.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1580,
+        "avg": 1580,
+        "label": "1條( 1,580 )  平均每條( 1,580 )"
+      },
+      {
+        "qty": 2,
+        "total": 3160,
+        "avg": 1580,
+        "label": "2條( 3,160 )  平均每條( 1,580 )"
+      },
+      {
+        "qty": 3,
+        "total": 4740,
+        "avg": 1580,
+        "label": "3條( 4,740 )  平均每條( 1,580 )"
+      },
+      {
+        "qty": 4,
+        "total": 6320,
+        "avg": 1580,
+        "label": "4條( 6,320 )  平均每條( 1,580 )"
+      },
+      {
+        "qty": 5,
+        "total": 7900,
+        "avg": 1580,
+        "label": "5條( 7,900 )  平均每條( 1,580 )"
+      },
+      {
+        "qty": 6,
+        "total": 9480,
+        "avg": 1580,
+        "label": "6條( 9,480 )  平均每條( 1,580 )"
+      },
+      {
+        "qty": 7,
+        "total": 11060,
+        "avg": 1580,
+        "label": "7條( 11,060 )  平均每條( 1,580 )"
+      },
+      {
+        "qty": 8,
+        "total": 12640,
+        "avg": 1580,
+        "label": "8條( 12,640 )  平均每條( 1,580 )"
+      }
+    ]
+  },
+  {
+    "name": "【快樂價】LOVEISDERMA 愛斯德瑪 友善海洋防曬乳系列",
+    "code": "CH00338250009",
+    "price": 380,
+    "bonus": 0,
+    "category": "挖美妝",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00338240003/17337966419227.jpg",
+    "plans": [
+      {
+        "qty": 4,
+        "total": 1520,
+        "avg": 380,
+        "label": "4瓶( 1,520 )  平均每瓶( 380 )"
+      }
+    ]
+  },
+  {
+    "name": "yadoma 惟立舒 益生菌修護 ALL-IN-ONE身體水凝乳",
+    "code": "SH00235Y24D353M0043S01",
+    "price": 420,
+    "bonus": 43,
+    "category": "挖美妝",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/SH00235220001/16425588152089.jpg",
+    "plans": [
+      {
+        "qty": 2,
+        "total": 940,
+        "avg": 470,
+        "label": "2瓶( 940 )  平均每瓶( 470 )"
+      },
+      {
+        "qty": 4,
+        "total": 1780,
+        "avg": 445,
+        "label": "4瓶( 1,780 )  平均每瓶( 445 )"
+      },
+      {
+        "qty": 6,
+        "total": 2620,
+        "avg": 437,
+        "label": "6瓶( 2,620 )  平均每瓶( 437 )"
+      },
+      {
+        "qty": 9,
+        "total": 3780,
+        "avg": 420,
+        "label": "9瓶( 3,780 )  平均每瓶( 420 )"
+      }
+    ]
+  },
+  {
+    "name": "【快樂價】yadoma 惟立舒 益生菌修護 ALL-IN-ONE身體水凝乳",
+    "code": "SH00235250001",
+    "price": 300,
+    "bonus": 0,
+    "category": "挖美妝",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/SH00235220001/16425588152089.jpg",
+    "plans": [
+      {
+        "qty": 4,
+        "total": 1200,
+        "avg": 300,
+        "label": "4瓶( 1,200 )  平均每瓶( 300 )"
+      }
+    ]
+  },
+  {
+    "name": "Lite Filtre 光肌美敷傘 碳纖輕量版",
+    "code": "B00169Y23D001M0180S01",
+    "price": 1980,
+    "bonus": 180,
+    "category": "挖美妝",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/SH00169200029/15954014938029.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1980,
+        "avg": 1980,
+        "label": "1支( 1,980 )  平均每支( 1,980 )"
+      }
+    ]
+  },
+  {
+    "name": "愛比堤100分鐘超導科技面膜 女王高光組（集購）",
+    "code": "AI0003927Y26D0327M1420S01",
+    "price": 13999,
+    "bonus": 1420,
+    "category": "挖美妝",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/AI00039260009/1774517773486.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 13999,
+        "avg": 13999,
+        "label": "1組( 13,999 )  平均每組( 13,999 )"
+      }
+    ]
+  },
+  {
+    "name": "彩虹時光面膜",
+    "code": "SH00169Y25D0522M0302S01",
+    "price": 1680,
+    "bonus": 302,
+    "category": "挖美妝",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/SH00169230139/17024445291574.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1780,
+        "avg": 1780,
+        "label": "1盒( 1,780 )  平均每盒( 1,780 )"
+      },
+      {
+        "qty": 3,
+        "total": 5140,
+        "avg": 1714,
+        "label": "3盒( 5,140 )  平均每盒( 1,714 )"
+      },
+      {
+        "qty": 6,
+        "total": 10210,
+        "avg": 1702,
+        "label": "6盒( 10,210 )  平均每盒( 1,702 )"
+      },
+      {
+        "qty": 15,
+        "total": 25200,
+        "avg": 1680,
+        "label": "15盒( 25,200 )  平均每盒( 1,680 )"
+      }
+    ]
+  },
+  {
+    "name": "巴黎香氛 亮白保濕隔離乳SPF50+ 250ml",
+    "code": "BA00182Y25D1002M0120S01",
+    "price": 1200,
+    "bonus": 120,
+    "category": "挖美妝",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/BA00182250003/17610405753517.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1250,
+        "avg": 1250,
+        "label": "1支( 1,250 )  平均每支( 1,250 )"
+      },
+      {
+        "qty": 2,
+        "total": 2400,
+        "avg": 1200,
+        "label": "2支( 2,400 )  平均每支( 1,200 )"
+      },
+      {
+        "qty": 3,
+        "total": 3600,
+        "avg": 1200,
+        "label": "3支( 3,600 )  平均每支( 1,200 )"
+      }
+    ]
+  },
+  {
+    "name": "【快樂價】巴黎香氛 亮白保濕隔離乳SPF50+ 250ml",
+    "code": "BA00182250004",
+    "price": 880,
+    "bonus": 0,
+    "category": "挖美妝",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/BA00182250004/17610406385761.jpg",
+    "plans": [
+      {
+        "qty": 6,
+        "total": 5280,
+        "avg": 880,
+        "label": "6組( 5,280 )  平均每組( 880 )"
+      }
+    ]
+  },
+  {
+    "name": "得意 抽取式廚房紙巾【宅配】",
+    "code": "YU00059210021",
+    "price": 24,
+    "bonus": 0,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JI00116200003/15882308357612.jpg",
+    "plans": [
+      {
+        "qty": 5,
+        "total": 225,
+        "avg": 45,
+        "label": "5包( 225 )  平均每包( 45 )"
+      },
+      {
+        "qty": 10,
+        "total": 320,
+        "avg": 32,
+        "label": "10包( 320 )  平均每包( 32 )"
+      },
+      {
+        "qty": 15,
+        "total": 445,
+        "avg": 30,
+        "label": "15包( 445 )  平均每包( 30 )"
+      },
+      {
+        "qty": 20,
+        "total": 540,
+        "avg": 27,
+        "label": "20包( 540 )  平均每包( 27 )"
+      },
+      {
+        "qty": 30,
+        "total": 700,
+        "avg": 24,
+        "label": "30包( 700 )  平均每包( 24 )"
+      }
+    ]
+  },
+  {
+    "name": "五月花 厚棒抽取式衛生紙 90抽／包【宅配】",
+    "code": "YU00059220009",
+    "price": 26,
+    "bonus": 0,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/YU00059220009/16510419514687.jpg",
+    "plans": [
+      {
+        "qty": 2,
+        "total": 140,
+        "avg": 70,
+        "label": "2包( 140 )  平均每包( 70 )"
+      },
+      {
+        "qty": 6,
+        "total": 250,
+        "avg": 42,
+        "label": "6包( 250 )  平均每包( 42 )"
+      },
+      {
+        "qty": 12,
+        "total": 370,
+        "avg": 31,
+        "label": "12包( 370 )  平均每包( 31 )"
+      },
+      {
+        "qty": 30,
+        "total": 760,
+        "avg": 26,
+        "label": "30包( 760 )  平均每包( 26 )"
+      }
+    ]
+  },
+  {
+    "name": "桃子蜜語 裸感親膚空氣褲",
+    "code": "YI00405Y23D093M0006S01",
+    "price": 119,
+    "bonus": 6,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/YI00405220001/1660112370015.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 209,
+        "avg": 209,
+        "label": "1件( 209 )  平均每件( 209 )"
+      },
+      {
+        "qty": 2,
+        "total": 328,
+        "avg": 164,
+        "label": "2件( 328 )  平均每件( 164 )"
+      },
+      {
+        "qty": 4,
+        "total": 566,
+        "avg": 142,
+        "label": "4件( 566 )  平均每件( 142 )"
+      },
+      {
+        "qty": 6,
+        "total": 804,
+        "avg": 134,
+        "label": "6件( 804 )  平均每件( 134 )"
+      },
+      {
+        "qty": 8,
+        "total": 952,
+        "avg": 119,
+        "label": "8件( 952 )  平均每件( 119 )"
+      }
+    ]
+  },
+  {
+    "name": "得意 抽取式廚房紙巾",
+    "code": "YU00059210020",
+    "price": 19,
+    "bonus": 0,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/YU00059210020/16291788293094.jpg",
+    "plans": [
+      {
+        "qty": 2,
+        "total": 38,
+        "avg": 19,
+        "label": "2包( 38 )  平均每包( 19 )"
+      },
+      {
+        "qty": 4,
+        "total": 76,
+        "avg": 19,
+        "label": "4包( 76 )  平均每包( 19 )"
+      },
+      {
+        "qty": 6,
+        "total": 114,
+        "avg": 19,
+        "label": "6包( 114 )  平均每包( 19 )"
+      }
+    ]
+  },
+  {
+    "name": "五月花210抽 48包／箱",
+    "code": "YU00059Y25D1201M0025S01",
+    "price": 1080,
+    "bonus": 25,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/YU00059250003/17654444481727.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1080,
+        "avg": 1080,
+        "label": "1箱( 1,080 )  平均每箱( 1,080 )"
+      }
+    ]
+  },
+  {
+    "name": "五月花 厚棒抽取式衛生紙 90抽／包",
+    "code": "YU00059220008",
+    "price": 20,
+    "bonus": 0,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/YU00059220008/16510423298097.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 20,
+        "avg": 20,
+        "label": "1包( 20 )  平均每包( 20 )"
+      },
+      {
+        "qty": 2,
+        "total": 40,
+        "avg": 20,
+        "label": "2包( 40 )  平均每包( 20 )"
+      },
+      {
+        "qty": 3,
+        "total": 60,
+        "avg": 20,
+        "label": "3包( 60 )  平均每包( 20 )"
+      }
+    ]
+  },
+  {
+    "name": "阿瑪迪斯速舒修護組300ml",
+    "code": "DI00447Y24D001M0322S01",
+    "price": 2990,
+    "bonus": 322,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/DI00447240001/17046817246335.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 2990,
+        "avg": 2990,
+        "label": "1組( 2,990 )  平均每組( 2,990 )"
+      },
+      {
+        "qty": 2,
+        "total": 5980,
+        "avg": 2990,
+        "label": "2組( 5,980 )  平均每組( 2,990 )"
+      },
+      {
+        "qty": 3,
+        "total": 8970,
+        "avg": 2990,
+        "label": "3組( 8,970 )  平均每組( 2,990 )"
+      },
+      {
+        "qty": 4,
+        "total": 11960,
+        "avg": 2990,
+        "label": "4組( 11,960 )  平均每組( 2,990 )"
+      },
+      {
+        "qty": 6,
+        "total": 17940,
+        "avg": 2990,
+        "label": "6組( 17,940 )  平均每組( 2,990 )"
+      }
+    ]
+  },
+  {
+    "name": "歐森 森呼吸非洲黑皂【六送一】【宅配】",
+    "code": "OU00224200003",
+    "price": 800,
+    "bonus": 0,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/OU00224200003/15942888744302.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 865,
+        "avg": 865,
+        "label": "1組( 865 )  平均每組( 865 )"
+      },
+      {
+        "qty": 2,
+        "total": 1600,
+        "avg": 800,
+        "label": "2組( 1,600 )  平均每組( 800 )"
+      }
+    ]
+  },
+  {
+    "name": "白金盾 濕式衛生紙 80抽／包",
+    "code": "SH00169Y25D0716M0036S01",
+    "price": 280,
+    "bonus": 36,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/SH00169200014/16341187829456.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 380,
+        "avg": 380,
+        "label": "1包( 380 )  平均每包( 380 )"
+      },
+      {
+        "qty": 2,
+        "total": 660,
+        "avg": 330,
+        "label": "2包( 660 )  平均每包( 330 )"
+      },
+      {
+        "qty": 4,
+        "total": 1220,
+        "avg": 305,
+        "label": "4包( 1,220 )  平均每包( 305 )"
+      },
+      {
+        "qty": 8,
+        "total": 2370,
+        "avg": 297,
+        "label": "8包( 2,370 )  平均每包( 297 )"
+      },
+      {
+        "qty": 12,
+        "total": 3360,
+        "avg": 280,
+        "label": "12包( 3,360 )  平均每包( 280 )"
+      }
+    ]
+  },
+  {
+    "name": "愛比堤 親子恐龍設計款防護口罩",
+    "code": "AI00039Y23D001M0022S01",
+    "price": 300,
+    "bonus": 22,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/AI00039210017/16194891924259.jpg",
+    "plans": [
+      {
+        "qty": 6,
+        "total": 1800,
+        "avg": 300,
+        "label": "6包( 1,800 )  平均每包( 300 )"
+      }
+    ]
+  },
+  {
+    "name": "愛比堤 3D時尚防護口罩 10入／組",
+    "code": "AI00039Y23D001M0175S01",
+    "price": 1250,
+    "bonus": 175,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/AI00039220007/16408455359106.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1350,
+        "avg": 1350,
+        "label": "1組( 1,350 )  平均每組( 1,350 )"
+      },
+      {
+        "qty": 2,
+        "total": 2500,
+        "avg": 1250,
+        "label": "2組( 2,500 )  平均每組( 1,250 )"
+      },
+      {
+        "qty": 3,
+        "total": 3750,
+        "avg": 1250,
+        "label": "3組( 3,750 )  平均每組( 1,250 )"
+      },
+      {
+        "qty": 4,
+        "total": 5000,
+        "avg": 1250,
+        "label": "4組( 5,000 )  平均每組( 1,250 )"
+      },
+      {
+        "qty": 5,
+        "total": 6250,
+        "avg": 1250,
+        "label": "5組( 6,250 )  平均每組( 1,250 )"
+      }
+    ]
+  },
+  {
+    "name": "酵素清潔去污粉 12包／箱（送酵素膨脹疏通粉2包）",
+    "code": "JI00210Y23D001M0051S01",
+    "price": 780,
+    "bonus": 51,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JI00210230001/16830955626242.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 780,
+        "avg": 780,
+        "label": "1箱( 780 )  平均每箱( 780 )"
+      }
+    ]
+  },
+  {
+    "name": "阿瑪迪斯速舒修護組60ml",
+    "code": "DI00447Y25D000M0060S01",
+    "price": 682,
+    "bonus": 60,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/DI00447250001/17404728104461.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 782,
+        "avg": 782,
+        "label": "1組( 782 )  平均每組( 782 )"
+      },
+      {
+        "qty": 2,
+        "total": 1464,
+        "avg": 732,
+        "label": "2組( 1,464 )  平均每組( 732 )"
+      },
+      {
+        "qty": 3,
+        "total": 2146,
+        "avg": 716,
+        "label": "3組( 2,146 )  平均每組( 716 )"
+      },
+      {
+        "qty": 4,
+        "total": 2728,
+        "avg": 682,
+        "label": "4組( 2,728 )  平均每組( 682 )"
+      }
+    ]
+  },
+  {
+    "name": "病毒盾VirusOUT菌切錠 12錠／盒",
+    "code": "CH00024Y25D0425M0293S01",
+    "price": 1980,
+    "bonus": 293,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00024250001/17453847153338.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1980,
+        "avg": 1980,
+        "label": "1盒( 1,980 )  平均每盒( 1,980 )"
+      },
+      {
+        "qty": 2,
+        "total": 3960,
+        "avg": 1980,
+        "label": "2盒( 3,960 )  平均每盒( 1,980 )"
+      },
+      {
+        "qty": 8,
+        "total": 15840,
+        "avg": 1980,
+        "label": "8盒( 15,840 )  平均每盒( 1,980 )"
+      }
+    ]
+  },
+  {
+    "name": "巴黎香氛 橄欖沐洗系列【宅配】",
+    "code": "BA00182Y24D333M0049S01",
+    "price": 499,
+    "bonus": 49,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/BA00182240006/17314662007764.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 599,
+        "avg": 599,
+        "label": "1瓶( 599 )  平均每瓶( 599 )"
+      },
+      {
+        "qty": 2,
+        "total": 1098,
+        "avg": 549,
+        "label": "2瓶( 1,098 )  平均每瓶( 549 )"
+      },
+      {
+        "qty": 4,
+        "total": 2096,
+        "avg": 524,
+        "label": "4瓶( 2,096 )  平均每瓶( 524 )"
+      },
+      {
+        "qty": 6,
+        "total": 3124,
+        "avg": 521,
+        "label": "6瓶( 3,124 )  平均每瓶( 521 )"
+      },
+      {
+        "qty": 8,
+        "total": 4122,
+        "avg": 516,
+        "label": "8瓶( 4,122 )  平均每瓶( 516 )"
+      },
+      {
+        "qty": 12,
+        "total": 6118,
+        "avg": 510,
+        "label": "12瓶( 6,118 )  平均每瓶( 510 )"
+      },
+      {
+        "qty": 24,
+        "total": 11976,
+        "avg": 499,
+        "label": "24瓶( 11,976 )  平均每瓶( 499 )"
+      }
+    ]
+  },
+  {
+    "name": "康朵吊掛式香氛除濕袋 160g【宅配】",
+    "code": "GU00420260002",
+    "price": 21,
+    "bonus": 0,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/GU00420220001/16583872097474.jpg",
+    "plans": [
+      {
+        "qty": 5,
+        "total": 205,
+        "avg": 41,
+        "label": "5包( 205 )  平均每包( 41 )"
+      },
+      {
+        "qty": 10,
+        "total": 310,
+        "avg": 31,
+        "label": "10包( 310 )  平均每包( 31 )"
+      },
+      {
+        "qty": 20,
+        "total": 510,
+        "avg": 26,
+        "label": "20包( 510 )  平均每包( 26 )"
+      },
+      {
+        "qty": 50,
+        "total": 1050,
+        "avg": 21,
+        "label": "50包( 1,050 )  平均每包( 21 )"
+      }
+    ]
+  },
+  {
+    "name": "桃子蜜語 吃肉肉蓄熱塑形褲",
+    "code": "JI00445Y25D003M0008S01",
+    "price": 159,
+    "bonus": 8,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JI00445240003/17655163599146.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 249,
+        "avg": 249,
+        "label": "1件( 249 )  平均每件( 249 )"
+      },
+      {
+        "qty": 2,
+        "total": 408,
+        "avg": 204,
+        "label": "2件( 408 )  平均每件( 204 )"
+      },
+      {
+        "qty": 4,
+        "total": 726,
+        "avg": 182,
+        "label": "4件( 726 )  平均每件( 182 )"
+      },
+      {
+        "qty": 6,
+        "total": 954,
+        "avg": 159,
+        "label": "6件( 954 )  平均每件( 159 )"
+      }
+    ]
+  },
+  {
+    "name": "【限時特惠專案】管道疏通泡泡慕斯",
+    "code": "JI00210240002",
+    "price": 300,
+    "bonus": 0,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JI00210240001/17042651357058.jpg",
+    "plans": [
+      {
+        "qty": 2,
+        "total": 630,
+        "avg": 315,
+        "label": "2瓶( 630 )  平均每瓶( 315 )"
+      },
+      {
+        "qty": 4,
+        "total": 1200,
+        "avg": 300,
+        "label": "4瓶( 1,200 )  平均每瓶( 300 )"
+      }
+    ]
+  },
+  {
+    "name": "歐森 森呼吸非洲黑皂【六送一】",
+    "code": "OU00224200002",
+    "price": 800,
+    "bonus": 0,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/OU00224200002/15942879980444.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 800,
+        "avg": 800,
+        "label": "1組( 800 )  平均每組( 800 )"
+      }
+    ]
+  },
+  {
+    "name": "阿瑪迪斯 速癒噴霧",
+    "code": "DI00447Y24D254M0083S01",
+    "price": 998,
+    "bonus": 83,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/DI00447240012/17256156802727.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1078,
+        "avg": 1078,
+        "label": "1瓶( 1,078 )  平均每瓶( 1,078 )"
+      },
+      {
+        "qty": 2,
+        "total": 2076,
+        "avg": 1038,
+        "label": "2瓶( 2,076 )  平均每瓶( 1,038 )"
+      },
+      {
+        "qty": 3,
+        "total": 3074,
+        "avg": 1025,
+        "label": "3瓶( 3,074 )  平均每瓶( 1,025 )"
+      },
+      {
+        "qty": 4,
+        "total": 4072,
+        "avg": 1018,
+        "label": "4瓶( 4,072 )  平均每瓶( 1,018 )"
+      },
+      {
+        "qty": 5,
+        "total": 4990,
+        "avg": 998,
+        "label": "5瓶( 4,990 )  平均每瓶( 998 )"
+      }
+    ]
+  },
+  {
+    "name": "遲來的禮物 護髮素",
+    "code": "YA00340Y23D001M0037S01",
+    "price": 799,
+    "bonus": 37,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/YA00340210002/16191696651258.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 849,
+        "avg": 849,
+        "label": "1瓶( 849 )  平均每瓶( 849 )"
+      },
+      {
+        "qty": 2,
+        "total": 1648,
+        "avg": 824,
+        "label": "2瓶( 1,648 )  平均每瓶( 824 )"
+      },
+      {
+        "qty": 3,
+        "total": 2447,
+        "avg": 816,
+        "label": "3瓶( 2,447 )  平均每瓶( 816 )"
+      },
+      {
+        "qty": 4,
+        "total": 3196,
+        "avg": 799,
+        "label": "4瓶( 3,196 )  平均每瓶( 799 )"
+      }
+    ]
+  },
+  {
+    "name": "五月花210抽 5箱／組",
+    "code": "YU00059Y25D1201M0125S01",
+    "price": 5400,
+    "bonus": 125,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/YU00059250004/17654446012718.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 5400,
+        "avg": 5400,
+        "label": "1組( 5,400 )  平均每組( 5,400 )"
+      }
+    ]
+  },
+  {
+    "name": "厚棒面紙隨身包(20袋/箱)",
+    "code": "B00059Y23D001M0020S02",
+    "price": 1090,
+    "bonus": 0,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/YU00059210006/16154420155783.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1090,
+        "avg": 1090,
+        "label": "1箱( 1,090 )  平均每箱( 1,090 )"
+      }
+    ]
+  },
+  {
+    "name": "阿瑪迪斯局部修護加強專用膜-10片裝",
+    "code": "DI00447Y25D0605M0011S01",
+    "price": 249,
+    "bonus": 11,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/DI00447250008/17479007513698.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 299,
+        "avg": 299,
+        "label": "1盒( 299 )  平均每盒( 299 )"
+      },
+      {
+        "qty": 2,
+        "total": 548,
+        "avg": 274,
+        "label": "2盒( 548 )  平均每盒( 274 )"
+      },
+      {
+        "qty": 3,
+        "total": 797,
+        "avg": 266,
+        "label": "3盒( 797 )  平均每盒( 266 )"
+      },
+      {
+        "qty": 4,
+        "total": 996,
+        "avg": 249,
+        "label": "4盒( 996 )  平均每盒( 249 )"
+      }
+    ]
+  },
+  {
+    "name": "金和興 金魚馬桶清潔劑10入/組【宅配】",
+    "code": "JI00210240005",
+    "price": 790,
+    "bonus": 0,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JI00210240003/17255037019844.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 790,
+        "avg": 790,
+        "label": "1組( 790 )  平均每組( 790 )"
+      },
+      {
+        "qty": 2,
+        "total": 1580,
+        "avg": 790,
+        "label": "2組( 1,580 )  平均每組( 790 )"
+      }
+    ]
+  },
+  {
+    "name": "毛寶 果淨酵素食器蔬果洗滌液體皂系列 700g／瓶【自取】",
+    "code": "MA00473250007",
+    "price": 95,
+    "bonus": 0,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/MA00473250001/17385746235682.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 95,
+        "avg": 95,
+        "label": "1瓶( 95 )  平均每瓶( 95 )"
+      },
+      {
+        "qty": 2,
+        "total": 190,
+        "avg": 95,
+        "label": "2瓶( 190 )  平均每瓶( 95 )"
+      },
+      {
+        "qty": 3,
+        "total": 285,
+        "avg": 95,
+        "label": "3瓶( 285 )  平均每瓶( 95 )"
+      }
+    ]
+  },
+  {
+    "name": "【限時特惠專案】阿瑪迪斯速舒修護組300ml 1組＋60ml 1組",
+    "code": "DI00447Y25D1203M0411S01",
+    "price": 3672,
+    "bonus": 411,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/DI00447230011/16855272046579.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 3672,
+        "avg": 3672,
+        "label": "1組( 3,672 )  平均每組( 3,672 )"
+      },
+      {
+        "qty": 2,
+        "total": 7344,
+        "avg": 3672,
+        "label": "2組( 7,344 )  平均每組( 3,672 )"
+      }
+    ]
+  },
+  {
+    "name": "【快樂價】KINYO 全球電壓折疊無刷吹風機KH-9660",
+    "code": "NA00268250006",
+    "price": 2090,
+    "bonus": 0,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/NA00268250004/17556711900693.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 2090,
+        "avg": 2090,
+        "label": "1台( 2,090 )  平均每台( 2,090 )"
+      },
+      {
+        "qty": 2,
+        "total": 4180,
+        "avg": 2090,
+        "label": "2台( 4,180 )  平均每台( 2,090 )"
+      }
+    ]
+  },
+  {
+    "name": "愛比堤 招財錢進時尚防護口罩",
+    "code": "AI00039Y23D001M0022S01",
+    "price": 300,
+    "bonus": 22,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/AI00039210003/16105235888254.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 399,
+        "avg": 399,
+        "label": "1包( 399 )  平均每包( 399 )"
+      },
+      {
+        "qty": 2,
+        "total": 699,
+        "avg": 350,
+        "label": "2包( 699 )  平均每包( 350 )"
+      },
+      {
+        "qty": 3,
+        "total": 999,
+        "avg": 333,
+        "label": "3包( 999 )  平均每包( 333 )"
+      },
+      {
+        "qty": 4,
+        "total": 1299,
+        "avg": 325,
+        "label": "4包( 1,299 )  平均每包( 325 )"
+      },
+      {
+        "qty": 5,
+        "total": 1599,
+        "avg": 320,
+        "label": "5包( 1,599 )  平均每包( 320 )"
+      },
+      {
+        "qty": 6,
+        "total": 1800,
+        "avg": 300,
+        "label": "6包( 1,800 )  平均每包( 300 )"
+      }
+    ]
+  },
+  {
+    "name": "【限時特惠專案】阿瑪迪斯速舒修護組60ml 1瓶＋速癒噴霧 1瓶",
+    "code": "DI00447Y26D0113M0050S01",
+    "price": 899,
+    "bonus": 50,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/DI00447250015/17592114220773.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 899,
+        "avg": 899,
+        "label": "1組( 899 )  平均每組( 899 )"
+      }
+    ]
+  },
+  {
+    "name": "金和興 垢垢落4瓶／組【宅配】",
+    "code": "JI00210240007",
+    "price": 1099,
+    "bonus": 0,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JI00210240007/17326968647993.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1099,
+        "avg": 1099,
+        "label": "1組( 1,099 )  平均每組( 1,099 )"
+      }
+    ]
+  },
+  {
+    "name": "KINYO 掃震電動牙刷ETB-895",
+    "code": "NA00268Y25D0904M0054S01",
+    "price": 1164,
+    "bonus": 54,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/NA00268250005/17568877683707.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1230,
+        "avg": 1230,
+        "label": "1組( 1,230 )  平均每組( 1,230 )"
+      },
+      {
+        "qty": 2,
+        "total": 2360,
+        "avg": 1180,
+        "label": "2組( 2,360 )  平均每組( 1,180 )"
+      },
+      {
+        "qty": 3,
+        "total": 3490,
+        "avg": 1164,
+        "label": "3組( 3,490 )  平均每組( 1,164 )"
+      }
+    ]
+  },
+  {
+    "name": "毛寶 小蘇打-烤箱&氣炸鍋潔淨泡425g【自取】",
+    "code": "MA00473250005",
+    "price": 98,
+    "bonus": 0,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/MA00473250006/17627639716419.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 98,
+        "avg": 98,
+        "label": "1瓶( 98 )  平均每瓶( 98 )"
+      },
+      {
+        "qty": 2,
+        "total": 196,
+        "avg": 98,
+        "label": "2瓶( 196 )  平均每瓶( 98 )"
+      }
+    ]
+  },
+  {
+    "name": "毛寶 粉領精-多重酵素衣物去漬劑500g【自取】",
+    "code": "MA00473250003",
+    "price": 98,
+    "bonus": 0,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/MA00473250004/17627641062587.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 98,
+        "avg": 98,
+        "label": "1瓶( 98 )  平均每瓶( 98 )"
+      },
+      {
+        "qty": 2,
+        "total": 196,
+        "avg": 98,
+        "label": "2瓶( 196 )  平均每瓶( 98 )"
+      }
+    ]
+  },
+  {
+    "name": "奇想冰鎮杯 啤酒款",
+    "code": "CH00124Y25D0723M0059S01",
+    "price": 590,
+    "bonus": 59,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00124210004/16226903515233.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 690,
+        "avg": 690,
+        "label": "1個( 690 )  平均每個( 690 )"
+      },
+      {
+        "qty": 2,
+        "total": 1310,
+        "avg": 655,
+        "label": "2個( 1,310 )  平均每個( 655 )"
+      },
+      {
+        "qty": 3,
+        "total": 1900,
+        "avg": 634,
+        "label": "3個( 1,900 )  平均每個( 634 )"
+      },
+      {
+        "qty": 4,
+        "total": 2360,
+        "avg": 590,
+        "label": "4個( 2,360 )  平均每個( 590 )"
+      }
+    ]
+  },
+  {
+    "name": "KINYO 智慧溫控 寬電壓快煮杯KIHP-2260W",
+    "code": "NA00268260002",
+    "price": 870,
+    "bonus": 0,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/NA00268260002/17677678859368.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 870,
+        "avg": 870,
+        "label": "1台( 870 )  平均每台( 870 )"
+      },
+      {
+        "qty": 2,
+        "total": 1740,
+        "avg": 870,
+        "label": "2台( 1,740 )  平均每台( 870 )"
+      },
+      {
+        "qty": 3,
+        "total": 2610,
+        "avg": 870,
+        "label": "3台( 2,610 )  平均每台( 870 )"
+      }
+    ]
+  },
+  {
+    "name": "遲來的禮物 洗髮精 500ml",
+    "code": "YA00340Y26D0213M0062S01",
+    "price": 599,
+    "bonus": 62,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/YA00340210001/16191694620499.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 649,
+        "avg": 649,
+        "label": "1瓶( 649 )  平均每瓶( 649 )"
+      },
+      {
+        "qty": 2,
+        "total": 1248,
+        "avg": 624,
+        "label": "2瓶( 1,248 )  平均每瓶( 624 )"
+      },
+      {
+        "qty": 3,
+        "total": 1847,
+        "avg": 616,
+        "label": "3瓶( 1,847 )  平均每瓶( 616 )"
+      },
+      {
+        "qty": 4,
+        "total": 2396,
+        "avg": 599,
+        "label": "4瓶( 2,396 )  平均每瓶( 599 )"
+      }
+    ]
+  },
+  {
+    "name": "ELLO 益生菌即刻煥白矯正膏3入組",
+    "code": "SE00502Y26D0319M0036S01",
+    "price": 750,
+    "bonus": 36,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/SE00502260001/17709707245782.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 750,
+        "avg": 750,
+        "label": "1組( 750 )  平均每組( 750 )"
+      },
+      {
+        "qty": 2,
+        "total": 1500,
+        "avg": 750,
+        "label": "2組( 1,500 )  平均每組( 750 )"
+      },
+      {
+        "qty": 4,
+        "total": 3000,
+        "avg": 750,
+        "label": "4組( 3,000 )  平均每組( 750 )"
+      }
+    ]
+  },
+  {
+    "name": "奇想冰鎮杯 威士忌款【自取】",
+    "code": "CH00124Y25D0723M0049S01",
+    "price": 490,
+    "bonus": 49,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00124210005/1622690475282.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 490,
+        "avg": 490,
+        "label": "1個( 490 )  平均每個( 490 )"
+      },
+      {
+        "qty": 2,
+        "total": 980,
+        "avg": 490,
+        "label": "2個( 980 )  平均每個( 490 )"
+      }
+    ]
+  },
+  {
+    "name": "LUXKIN 安全自動美敷傘",
+    "code": "SH00169Y25D0821M0246S01",
+    "price": 2280,
+    "bonus": 246,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/SH00169250051/17533352645259.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 2280,
+        "avg": 2280,
+        "label": "1支( 2,280 )  平均每支( 2,280 )"
+      },
+      {
+        "qty": 2,
+        "total": 4560,
+        "avg": 2280,
+        "label": "2支( 4,560 )  平均每支( 2,280 )"
+      },
+      {
+        "qty": 3,
+        "total": 6840,
+        "avg": 2280,
+        "label": "3支( 6,840 )  平均每支( 2,280 )"
+      },
+      {
+        "qty": 4,
+        "total": 9120,
+        "avg": 2280,
+        "label": "4支( 9,120 )  平均每支( 2,280 )"
+      }
+    ]
+  },
+  {
+    "name": "奇想冰鎮杯 啤酒款【自取】",
+    "code": "CH00124Y25D0723M0059S01",
+    "price": 590,
+    "bonus": 59,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00124210004/16226903515233.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 590,
+        "avg": 590,
+        "label": "1個( 590 )  平均每個( 590 )"
+      },
+      {
+        "qty": 2,
+        "total": 1180,
+        "avg": 590,
+        "label": "2個( 1,180 )  平均每個( 590 )"
+      }
+    ]
+  },
+  {
+    "name": "護立康3合1安全磨／切藥器【自取】",
+    "code": "LU00000250029",
+    "price": 120,
+    "bonus": 0,
+    "category": "挖居家",
+    "image": "",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 120,
+        "avg": 120,
+        "label": "1個( 120 )  平均每個( 120 )"
+      }
+    ]
+  },
+  {
+    "name": "THAT! 兩用玻璃壺",
+    "code": "CH00482Y25D0205M0087S01",
+    "price": 990,
+    "bonus": 87,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00482250011/17558327255074.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1020,
+        "avg": 1020,
+        "label": "1個( 1,020 )  平均每個( 1,020 )"
+      },
+      {
+        "qty": 2,
+        "total": 1980,
+        "avg": 990,
+        "label": "2個( 1,980 )  平均每個( 990 )"
+      },
+      {
+        "qty": 3,
+        "total": 2970,
+        "avg": 990,
+        "label": "3個( 2,970 )  平均每個( 990 )"
+      },
+      {
+        "qty": 4,
+        "total": 3960,
+        "avg": 990,
+        "label": "4個( 3,960 )  平均每個( 990 )"
+      }
+    ]
+  },
+  {
+    "name": "奇想冰鎮杯 威士忌款",
+    "code": "CH00124Y25D0723M0049S01",
+    "price": 490,
+    "bonus": 49,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00124210005/1622690475282.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 590,
+        "avg": 590,
+        "label": "1個( 590 )  平均每個( 590 )"
+      },
+      {
+        "qty": 2,
+        "total": 1080,
+        "avg": 540,
+        "label": "2個( 1,080 )  平均每個( 540 )"
+      },
+      {
+        "qty": 3,
+        "total": 1600,
+        "avg": 534,
+        "label": "3個( 1,600 )  平均每個( 534 )"
+      },
+      {
+        "qty": 4,
+        "total": 2090,
+        "avg": 523,
+        "label": "4個( 2,090 )  平均每個( 523 )"
+      },
+      {
+        "qty": 5,
+        "total": 2580,
+        "avg": 516,
+        "label": "5個( 2,580 )  平均每個( 516 )"
+      },
+      {
+        "qty": 6,
+        "total": 2940,
+        "avg": 490,
+        "label": "6個( 2,940 )  平均每個( 490 )"
+      }
+    ]
+  },
+  {
+    "name": "KINYO 五面取暖直立式電暖器EH-520",
+    "code": "NA00268Y26D0108M0051S01",
+    "price": 1960,
+    "bonus": 51,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/NA00268260001/17673220543723.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1960,
+        "avg": 1960,
+        "label": "1台( 1,960 )  平均每台( 1,960 )"
+      },
+      {
+        "qty": 2,
+        "total": 3920,
+        "avg": 1960,
+        "label": "2台( 3,920 )  平均每台( 1,960 )"
+      }
+    ]
+  },
+  {
+    "name": "康朵吊掛式香氛除濕袋 160g【自取】",
+    "code": "GU00420260001",
+    "price": 21,
+    "bonus": 0,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JI00116200001/15882307809706.jpg",
+    "plans": [
+      {
+        "qty": 5,
+        "total": 105,
+        "avg": 21,
+        "label": "5包( 105 )  平均每包( 21 )"
+      },
+      {
+        "qty": 10,
+        "total": 210,
+        "avg": 21,
+        "label": "10包( 210 )  平均每包( 21 )"
+      },
+      {
+        "qty": 15,
+        "total": 315,
+        "avg": 21,
+        "label": "15包( 315 )  平均每包( 21 )"
+      }
+    ]
+  },
+  {
+    "name": "奇想保冷壺 1000ml",
+    "code": "CH00482Y26D0206M0140S01",
+    "price": 1350,
+    "bonus": 140,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00482250012/17558330231108.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1380,
+        "avg": 1380,
+        "label": "1個( 1,380 )  平均每個( 1,380 )"
+      },
+      {
+        "qty": 2,
+        "total": 2700,
+        "avg": 1350,
+        "label": "2個( 2,700 )  平均每個( 1,350 )"
+      }
+    ]
+  },
+  {
+    "name": "奇享杯 琺瑯塗層 500ml",
+    "code": "CH00482Y26D0224M0228S010",
+    "price": 1730,
+    "bonus": 228,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00482250010/1755832110894.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1730,
+        "avg": 1730,
+        "label": "1個( 1,730 )  平均每個( 1,730 )"
+      },
+      {
+        "qty": 2,
+        "total": 3460,
+        "avg": 1730,
+        "label": "2個( 3,460 )  平均每個( 1,730 )"
+      },
+      {
+        "qty": 3,
+        "total": 5190,
+        "avg": 1730,
+        "label": "3個( 5,190 )  平均每個( 1,730 )"
+      }
+    ]
+  },
+  {
+    "name": "奇想奶油刀隱藏版 星空銀",
+    "code": "CH00482Y26D0206M0020S01",
+    "price": 399,
+    "bonus": 20,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00482250021/17558410180501.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 499,
+        "avg": 499,
+        "label": "1支( 499 )  平均每支( 499 )"
+      },
+      {
+        "qty": 2,
+        "total": 898,
+        "avg": 449,
+        "label": "2支( 898 )  平均每支( 449 )"
+      },
+      {
+        "qty": 3,
+        "total": 1197,
+        "avg": 399,
+        "label": "3支( 1,197 )  平均每支( 399 )"
+      }
+    ]
+  },
+  {
+    "name": "AKAMAKA 超薄金屬鍍膜抗菌口罩 混色10入",
+    "code": "CH00482Y26D0206M0033S01",
+    "price": 250,
+    "bonus": 33,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00482250018/1755840263646.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 350,
+        "avg": 350,
+        "label": "1組( 350 )  平均每組( 350 )"
+      },
+      {
+        "qty": 2,
+        "total": 600,
+        "avg": 300,
+        "label": "2組( 600 )  平均每組( 300 )"
+      },
+      {
+        "qty": 3,
+        "total": 850,
+        "avg": 284,
+        "label": "3組( 850 )  平均每組( 284 )"
+      },
+      {
+        "qty": 4,
+        "total": 1000,
+        "avg": 250,
+        "label": "4組( 1,000 )  平均每組( 250 )"
+      }
+    ]
+  },
+  {
+    "name": "厚棒面紙隨身包 (5箱/組)",
+    "code": "B00059Y23D001M0104S03",
+    "price": 5450,
+    "bonus": 0,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/YU00059210007/16154414072666.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 5450,
+        "avg": 5450,
+        "label": "1組( 5,450 )  平均每組( 5,450 )"
+      }
+    ]
+  },
+  {
+    "name": "奇想伶巧陶瓷塗層保溫杯",
+    "code": "CH00482Y26D0205M0096S01",
+    "price": 890,
+    "bonus": 96,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00482250009/17558307090527.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 990,
+        "avg": 990,
+        "label": "1個( 990 )  平均每個( 990 )"
+      },
+      {
+        "qty": 2,
+        "total": 1780,
+        "avg": 890,
+        "label": "2個( 1,780 )  平均每個( 890 )"
+      },
+      {
+        "qty": 3,
+        "total": 2670,
+        "avg": 890,
+        "label": "3個( 2,670 )  平均每個( 890 )"
+      },
+      {
+        "qty": 4,
+        "total": 3560,
+        "avg": 890,
+        "label": "4個( 3,560 )  平均每個( 890 )"
+      }
+    ]
+  },
+  {
+    "name": "【快樂價】愛比堤 抗菌除臭襪 12雙／組",
+    "code": "AI00039Y25D1121M0000S01",
+    "price": 1080,
+    "bonus": 0,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/AI00039250036/17655167003164.jpg",
+    "plans": [
+      {
+        "qty": 4,
+        "total": 4320,
+        "avg": 1080,
+        "label": "4組( 4,320 )  平均每組( 1,080 )"
+      }
+    ]
+  },
+  {
+    "name": "奇想樂冰匙 銀色／黑色",
+    "code": "CH00482Y26D0224M0059S01",
+    "price": 590,
+    "bonus": 59,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00482250020/17558405943393.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 690,
+        "avg": 690,
+        "label": "1支( 690 )  平均每支( 690 )"
+      },
+      {
+        "qty": 2,
+        "total": 1180,
+        "avg": 590,
+        "label": "2支( 1,180 )  平均每支( 590 )"
+      }
+    ]
+  },
+  {
+    "name": "奇想保冷壺 750ml",
+    "code": "CH00482Y26D0206M0114S01",
+    "price": 1190,
+    "bonus": 114,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00482250013/17558339080596.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1190,
+        "avg": 1190,
+        "label": "1個( 1,190 )  平均每個( 1,190 )"
+      },
+      {
+        "qty": 2,
+        "total": 2380,
+        "avg": 1190,
+        "label": "2個( 2,380 )  平均每個( 1,190 )"
+      },
+      {
+        "qty": 3,
+        "total": 3570,
+        "avg": 1190,
+        "label": "3個( 3,570 )  平均每個( 1,190 )"
+      }
+    ]
+  },
+  {
+    "name": "奇想保溫杯 不鏽鋼真空 INOX耀黑380ml",
+    "code": "CH00482Y26D0224M0130S01",
+    "price": 990,
+    "bonus": 130,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00482250014/175583452092.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 990,
+        "avg": 990,
+        "label": "1個( 990 )  平均每個( 990 )"
+      },
+      {
+        "qty": 2,
+        "total": 1980,
+        "avg": 990,
+        "label": "2個( 1,980 )  平均每個( 990 )"
+      },
+      {
+        "qty": 3,
+        "total": 2970,
+        "avg": 990,
+        "label": "3個( 2,970 )  平均每個( 990 )"
+      }
+    ]
+  },
+  {
+    "name": "VUV多功能光觸媒空淨殺菌器",
+    "code": "CH00482Y26D0205M0446S01",
+    "price": 3380,
+    "bonus": 446,
+    "category": "挖居家",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00482250002/175498756415.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 3380,
+        "avg": 3380,
+        "label": "1台( 3,380 )  平均每台( 3,380 )"
+      },
+      {
+        "qty": 2,
+        "total": 6760,
+        "avg": 3380,
+        "label": "2台( 6,760 )  平均每台( 3,380 )"
+      }
+    ]
+  },
+  {
+    "name": "CHANMODE 香茉 無痕水光面膜蠶絲內褲【宅配】",
+    "code": "NI00459Y25D072M0004S01",
+    "price": 85,
+    "bonus": 4,
+    "category": "挖好穿",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/NI00459250004/17655157920092.jpg",
+    "plans": [
+      {
+        "qty": 2,
+        "total": 250,
+        "avg": 125,
+        "label": "2件( 250 )  平均每件( 125 )"
+      },
+      {
+        "qty": 4,
+        "total": 420,
+        "avg": 105,
+        "label": "4件( 420 )  平均每件( 105 )"
+      },
+      {
+        "qty": 6,
+        "total": 590,
+        "avg": 99,
+        "label": "6件( 590 )  平均每件( 99 )"
+      },
+      {
+        "qty": 8,
+        "total": 760,
+        "avg": 95,
+        "label": "8件( 760 )  平均每件( 95 )"
+      },
+      {
+        "qty": 12,
+        "total": 1100,
+        "avg": 92,
+        "label": "12件( 1,100 )  平均每件( 92 )"
+      },
+      {
+        "qty": 60,
+        "total": 5100,
+        "avg": 85,
+        "label": "60件( 5,100 )  平均每件( 85 )"
+      }
+    ]
+  },
+  {
+    "name": "CHANMODE 100支撞色蠶絲莫代爾男內褲",
+    "code": "NI00459Y24D282M0008S01",
+    "price": 160,
+    "bonus": 8,
+    "category": "挖好穿",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/NI00459240016/17655159205763.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 240,
+        "avg": 240,
+        "label": "1件( 240 )  平均每件( 240 )"
+      },
+      {
+        "qty": 2,
+        "total": 400,
+        "avg": 200,
+        "label": "2件( 400 )  平均每件( 200 )"
+      },
+      {
+        "qty": 4,
+        "total": 720,
+        "avg": 180,
+        "label": "4件( 720 )  平均每件( 180 )"
+      },
+      {
+        "qty": 6,
+        "total": 1040,
+        "avg": 174,
+        "label": "6件( 1,040 )  平均每件( 174 )"
+      },
+      {
+        "qty": 8,
+        "total": 1360,
+        "avg": 170,
+        "label": "8件( 1,360 )  平均每件( 170 )"
+      },
+      {
+        "qty": 10,
+        "total": 1680,
+        "avg": 168,
+        "label": "10件( 1,680 )  平均每件( 168 )"
+      },
+      {
+        "qty": 32,
+        "total": 5120,
+        "avg": 160,
+        "label": "32件( 5,120 )  平均每件( 160 )"
+      }
+    ]
+  },
+  {
+    "name": "CHANMODE 香茉 清涼四葉冰絲中高腰褲",
+    "code": "NI00459Y26D0305M0005S01",
+    "price": 80,
+    "bonus": 5,
+    "category": "挖好穿",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/NI00459260001/1772591508992.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 160,
+        "avg": 160,
+        "label": "1件( 160 )  平均每件( 160 )"
+      },
+      {
+        "qty": 2,
+        "total": 240,
+        "avg": 120,
+        "label": "2件( 240 )  平均每件( 120 )"
+      },
+      {
+        "qty": 4,
+        "total": 400,
+        "avg": 100,
+        "label": "4件( 400 )  平均每件( 100 )"
+      },
+      {
+        "qty": 8,
+        "total": 720,
+        "avg": 90,
+        "label": "8件( 720 )  平均每件( 90 )"
+      },
+      {
+        "qty": 16,
+        "total": 1360,
+        "avg": 85,
+        "label": "16件( 1,360 )  平均每件( 85 )"
+      },
+      {
+        "qty": 20,
+        "total": 1600,
+        "avg": 80,
+        "label": "20件( 1,600 )  平均每件( 80 )"
+      }
+    ]
+  },
+  {
+    "name": "東湧高梁酒 45度 600ml／瓶",
+    "code": "CH00392220003",
+    "price": 720,
+    "bonus": 0,
+    "category": "挖好酒",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00392220003/17543826808721.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 720,
+        "avg": 720,
+        "label": "1瓶( 720 )  平均每瓶( 720 )"
+      },
+      {
+        "qty": 2,
+        "total": 1440,
+        "avg": 720,
+        "label": "2瓶( 1,440 )  平均每瓶( 720 )"
+      },
+      {
+        "qty": 3,
+        "total": 2160,
+        "avg": 720,
+        "label": "3瓶( 2,160 )  平均每瓶( 720 )"
+      }
+    ]
+  },
+  {
+    "name": "東湧高梁酒 42度 600ml／瓶",
+    "code": "CH00392220001",
+    "price": 400,
+    "bonus": 0,
+    "category": "挖好酒",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00392220001/17543827208132.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 400,
+        "avg": 400,
+        "label": "1瓶( 400 )  平均每瓶( 400 )"
+      },
+      {
+        "qty": 2,
+        "total": 800,
+        "avg": 400,
+        "label": "2瓶( 800 )  平均每瓶( 400 )"
+      },
+      {
+        "qty": 3,
+        "total": 1200,
+        "avg": 400,
+        "label": "3瓶( 1,200 )  平均每瓶( 400 )"
+      }
+    ]
+  },
+  {
+    "name": "CHOYA 宇治茶梅酒 720ml／瓶",
+    "code": "JY00361210003",
+    "price": 529,
+    "bonus": 0,
+    "category": "挖好酒",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JY00361210003/16261688959084.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 529,
+        "avg": 529,
+        "label": "1瓶( 529 )  平均每瓶( 529 )"
+      },
+      {
+        "qty": 2,
+        "total": 1058,
+        "avg": 529,
+        "label": "2瓶( 1,058 )  平均每瓶( 529 )"
+      },
+      {
+        "qty": 3,
+        "total": 1587,
+        "avg": 529,
+        "label": "3瓶( 1,587 )  平均每瓶( 529 )"
+      }
+    ]
+  },
+  {
+    "name": "CHOYA 宇治茶梅酒 720ml／瓶【宅配】",
+    "code": "JY00361210004",
+    "price": 529,
+    "bonus": 0,
+    "category": "挖好酒",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JY00361210004/16261692507506.jpg",
+    "plans": [
+      {
+        "qty": 2,
+        "total": 1188,
+        "avg": 594,
+        "label": "2瓶( 1,188 )  平均每瓶( 594 )"
+      },
+      {
+        "qty": 4,
+        "total": 2246,
+        "avg": 562,
+        "label": "4瓶( 2,246 )  平均每瓶( 562 )"
+      },
+      {
+        "qty": 6,
+        "total": 3174,
+        "avg": 529,
+        "label": "6瓶( 3,174 )  平均每瓶( 529 )"
+      }
+    ]
+  },
+  {
+    "name": "白鶴 梅酒原酒 720ml／瓶【宅配】",
+    "code": "GU00342220002",
+    "price": 551,
+    "bonus": 0,
+    "category": "挖好酒",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/GU00342220002/17543829454297.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 629,
+        "avg": 629,
+        "label": "1瓶( 629 )  平均每瓶( 629 )"
+      },
+      {
+        "qty": 2,
+        "total": 1188,
+        "avg": 594,
+        "label": "2瓶( 1,188 )  平均每瓶( 594 )"
+      },
+      {
+        "qty": 3,
+        "total": 1717,
+        "avg": 573,
+        "label": "3瓶( 1,717 )  平均每瓶( 573 )"
+      },
+      {
+        "qty": 4,
+        "total": 2246,
+        "avg": 562,
+        "label": "4瓶( 2,246 )  平均每瓶( 562 )"
+      },
+      {
+        "qty": 5,
+        "total": 2775,
+        "avg": 555,
+        "label": "5瓶( 2,775 )  平均每瓶( 555 )"
+      },
+      {
+        "qty": 6,
+        "total": 3304,
+        "avg": 551,
+        "label": "6瓶( 3,304 )  平均每瓶( 551 )"
+      }
+    ]
+  },
+  {
+    "name": "白鶴 梅酒原酒 720ml／瓶",
+    "code": "GU00342220001",
+    "price": 529,
+    "bonus": 0,
+    "category": "挖好酒",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/GU00342220001/17543829813243.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 529,
+        "avg": 529,
+        "label": "1瓶( 529 )  平均每瓶( 529 )"
+      },
+      {
+        "qty": 2,
+        "total": 1058,
+        "avg": 529,
+        "label": "2瓶( 1,058 )  平均每瓶( 529 )"
+      },
+      {
+        "qty": 3,
+        "total": 1587,
+        "avg": 529,
+        "label": "3瓶( 1,587 )  平均每瓶( 529 )"
+      }
+    ]
+  },
+  {
+    "name": "東湧高梁酒 42度 600ml／瓶【宅配】",
+    "code": "CH00392220002",
+    "price": 400,
+    "bonus": 0,
+    "category": "挖好酒",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00392220002/17543830116793.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 500,
+        "avg": 500,
+        "label": "1瓶( 500 )  平均每瓶( 500 )"
+      },
+      {
+        "qty": 2,
+        "total": 900,
+        "avg": 450,
+        "label": "2瓶( 900 )  平均每瓶( 450 )"
+      },
+      {
+        "qty": 12,
+        "total": 4800,
+        "avg": 400,
+        "label": "12瓶( 4,800 )  平均每瓶( 400 )"
+      }
+    ]
+  },
+  {
+    "name": "東湧高梁酒 45度 600ml／瓶【宅配】",
+    "code": "CH00392220004",
+    "price": 720,
+    "bonus": 0,
+    "category": "挖好酒",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00392220004/17543830450455.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 820,
+        "avg": 820,
+        "label": "1瓶( 820 )  平均每瓶( 820 )"
+      },
+      {
+        "qty": 2,
+        "total": 1540,
+        "avg": 770,
+        "label": "2瓶( 1,540 )  平均每瓶( 770 )"
+      },
+      {
+        "qty": 12,
+        "total": 8640,
+        "avg": 720,
+        "label": "12瓶( 8,640 )  平均每瓶( 720 )"
+      }
+    ]
+  },
+  {
+    "name": "紐西蘭索爾金斯酒莊 巴里克珍藏版創始人波特紅酒",
+    "code": "SO00493Y25D1106M0084S001",
+    "price": 1050,
+    "bonus": 0,
+    "category": "挖好酒",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/SO00493250001/17647293414913.jpg",
+    "plans": [
+      {
+        "qty": 6,
+        "total": 6300,
+        "avg": 1050,
+        "label": "6瓶( 6,300 )  平均每瓶( 1,050 )"
+      }
+    ]
+  },
+  {
+    "name": "【快樂價】紐西蘭索爾金斯酒莊 巴里克珍藏版創始人波特紅酒 禮盒版【自取】",
+    "code": "SO00493250004",
+    "price": 1200,
+    "bonus": 0,
+    "category": "挖好酒",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/SO00493250003/1764731513597.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1200,
+        "avg": 1200,
+        "label": "1瓶( 1,200 )  平均每瓶( 1,200 )"
+      },
+      {
+        "qty": 2,
+        "total": 2400,
+        "avg": 1200,
+        "label": "2瓶( 2,400 )  平均每瓶( 1,200 )"
+      }
+    ]
+  },
+  {
+    "name": "北港朝天宮 x 金門酒廠轎窗燈造型祈福紀念酒",
+    "code": "YA00499250002",
+    "price": 3250,
+    "bonus": 0,
+    "category": "挖好酒",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/YA00499250001/17653529340858.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 3250,
+        "avg": 3250,
+        "label": "1瓶( 3,250 )  平均每瓶( 3,250 )"
+      },
+      {
+        "qty": 2,
+        "total": 6500,
+        "avg": 3250,
+        "label": "2瓶( 6,500 )  平均每瓶( 3,250 )"
+      }
+    ]
+  },
+  {
+    "name": "金牌鏟屎官 藍藻益生菌膠囊30粒／瓶",
+    "code": "JU00027Y24D326M0155S01",
+    "price": 1080,
+    "bonus": 155,
+    "category": "挖寵物",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JU00027240121/17292303730001.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1180,
+        "avg": 1180,
+        "label": "1瓶( 1,180 )  平均每瓶( 1,180 )"
+      },
+      {
+        "qty": 2,
+        "total": 2260,
+        "avg": 1130,
+        "label": "2瓶( 2,260 )  平均每瓶( 1,130 )"
+      },
+      {
+        "qty": 4,
+        "total": 4420,
+        "avg": 1105,
+        "label": "4瓶( 4,420 )  平均每瓶( 1,105 )"
+      },
+      {
+        "qty": 6,
+        "total": 6580,
+        "avg": 1097,
+        "label": "6瓶( 6,580 )  平均每瓶( 1,097 )"
+      },
+      {
+        "qty": 8,
+        "total": 8740,
+        "avg": 1093,
+        "label": "8瓶( 8,740 )  平均每瓶( 1,093 )"
+      },
+      {
+        "qty": 10,
+        "total": 10800,
+        "avg": 1080,
+        "label": "10瓶( 10,800 )  平均每瓶( 1,080 )"
+      }
+    ]
+  },
+  {
+    "name": "毛孩高端餐 專利凍乾益菌糧（貓寶／狗寶營養餐）",
+    "code": "GA00494Y25D1121M0120S01",
+    "price": 1000,
+    "bonus": 120,
+    "category": "挖寵物",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/GA00494250005/17669792775984.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1130,
+        "avg": 1130,
+        "label": "1包( 1,130 )  平均每包( 1,130 )"
+      },
+      {
+        "qty": 2,
+        "total": 2130,
+        "avg": 1065,
+        "label": "2包( 2,130 )  平均每包( 1,065 )"
+      },
+      {
+        "qty": 4,
+        "total": 4130,
+        "avg": 1033,
+        "label": "4包( 4,130 )  平均每包( 1,033 )"
+      },
+      {
+        "qty": 6,
+        "total": 6000,
+        "avg": 1000,
+        "label": "6包( 6,000 )  平均每包( 1,000 )"
+      }
+    ]
+  },
+  {
+    "name": "阿瑪迪斯寵物皮麗舒噴霧100ml",
+    "code": "DI00447Y25D0515M0105S01",
+    "price": 1150,
+    "bonus": 105,
+    "category": "挖寵物",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/DI00447250009/17502382041354.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1250,
+        "avg": 1250,
+        "label": "1瓶( 1,250 )  平均每瓶( 1,250 )"
+      },
+      {
+        "qty": 2,
+        "total": 2400,
+        "avg": 1200,
+        "label": "2瓶( 2,400 )  平均每瓶( 1,200 )"
+      },
+      {
+        "qty": 3,
+        "total": 3550,
+        "avg": 1184,
+        "label": "3瓶( 3,550 )  平均每瓶( 1,184 )"
+      },
+      {
+        "qty": 4,
+        "total": 4600,
+        "avg": 1150,
+        "label": "4瓶( 4,600 )  平均每瓶( 1,150 )"
+      }
+    ]
+  },
+  {
+    "name": "粉戀光芒 控油洗髮精",
+    "code": "YA00340Y24D039M0053S01",
+    "price": 499,
+    "bonus": 53,
+    "category": "秒殺商品",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/YA00340240001/17062399063284.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 599,
+        "avg": 599,
+        "label": "1瓶( 599 )  平均每瓶( 599 )"
+      },
+      {
+        "qty": 2,
+        "total": 1098,
+        "avg": 549,
+        "label": "2瓶( 1,098 )  平均每瓶( 549 )"
+      },
+      {
+        "qty": 4,
+        "total": 2096,
+        "avg": 524,
+        "label": "4瓶( 2,096 )  平均每瓶( 524 )"
+      },
+      {
+        "qty": 6,
+        "total": 3124,
+        "avg": 521,
+        "label": "6瓶( 3,124 )  平均每瓶( 521 )"
+      },
+      {
+        "qty": 8,
+        "total": 4122,
+        "avg": 516,
+        "label": "8瓶( 4,122 )  平均每瓶( 516 )"
+      },
+      {
+        "qty": 10,
+        "total": 4990,
+        "avg": 499,
+        "label": "10瓶( 4,990 )  平均每瓶( 499 )"
+      }
+    ]
+  },
+  {
+    "name": "朵妮朵絲 頭皮／身體／肌肉保養系列",
+    "code": "DU00498Y26D0223M0049S01",
+    "price": 590,
+    "bonus": 49,
+    "category": "秒殺商品",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/DU00498250010/17625010419732.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 690,
+        "avg": 690,
+        "label": "1瓶( 690 )  平均每瓶( 690 )"
+      },
+      {
+        "qty": 2,
+        "total": 1280,
+        "avg": 640,
+        "label": "2瓶( 1,280 )  平均每瓶( 640 )"
+      },
+      {
+        "qty": 3,
+        "total": 1870,
+        "avg": 624,
+        "label": "3瓶( 1,870 )  平均每瓶( 624 )"
+      },
+      {
+        "qty": 4,
+        "total": 2460,
+        "avg": 615,
+        "label": "4瓶( 2,460 )  平均每瓶( 615 )"
+      },
+      {
+        "qty": 7,
+        "total": 4130,
+        "avg": 590,
+        "label": "7瓶( 4,130 )  平均每瓶( 590 )"
+      }
+    ]
+  },
+  {
+    "name": "【果島栽香】果乾茶系列",
+    "code": "BA00466Y26D0128M0022S01",
+    "price": 570,
+    "bonus": 22,
+    "category": "秒殺商品",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/BA00466260002/17689802459701.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 670,
+        "avg": 670,
+        "label": "1盒( 670 )  平均每盒( 670 )"
+      },
+      {
+        "qty": 2,
+        "total": 1240,
+        "avg": 620,
+        "label": "2盒( 1,240 )  平均每盒( 620 )"
+      },
+      {
+        "qty": 4,
+        "total": 2380,
+        "avg": 595,
+        "label": "4盒( 2,380 )  平均每盒( 595 )"
+      },
+      {
+        "qty": 8,
+        "total": 4660,
+        "avg": 583,
+        "label": "8盒( 4,660 )  平均每盒( 583 )"
+      },
+      {
+        "qty": 16,
+        "total": 9120,
+        "avg": 570,
+        "label": "16盒( 9,120 )  平均每盒( 570 )"
+      }
+    ]
+  },
+  {
+    "name": "【限時特惠專案】朵妮朵絲 臉部保養 玫瑰／茉莉精露",
+    "code": "DU00498Y26D0116M0039S01",
+    "price": 430,
+    "bonus": 39,
+    "category": "秒殺商品",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/DU00498250007/17617220271684.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 530,
+        "avg": 530,
+        "label": "1瓶( 530 )  平均每瓶( 530 )"
+      },
+      {
+        "qty": 2,
+        "total": 960,
+        "avg": 480,
+        "label": "2瓶( 960 )  平均每瓶( 480 )"
+      },
+      {
+        "qty": 3,
+        "total": 1390,
+        "avg": 464,
+        "label": "3瓶( 1,390 )  平均每瓶( 464 )"
+      },
+      {
+        "qty": 4,
+        "total": 1820,
+        "avg": 455,
+        "label": "4瓶( 1,820 )  平均每瓶( 455 )"
+      },
+      {
+        "qty": 6,
+        "total": 2680,
+        "avg": 447,
+        "label": "6瓶( 2,680 )  平均每瓶( 447 )"
+      },
+      {
+        "qty": 10,
+        "total": 4300,
+        "avg": 430,
+        "label": "10瓶( 4,300 )  平均每瓶( 430 )"
+      }
+    ]
+  },
+  {
+    "name": "巴黎香氛 橄欖沐洗系列【自取】",
+    "code": "BA00182Y24D333M0049S01",
+    "price": 499,
+    "bonus": 49,
+    "category": "秒殺商品",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/BA00182240005/1731464776342.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 499,
+        "avg": 499,
+        "label": "1瓶( 499 )  平均每瓶( 499 )"
+      },
+      {
+        "qty": 2,
+        "total": 998,
+        "avg": 499,
+        "label": "2瓶( 998 )  平均每瓶( 499 )"
+      },
+      {
+        "qty": 3,
+        "total": 1497,
+        "avg": 499,
+        "label": "3瓶( 1,497 )  平均每瓶( 499 )"
+      }
+    ]
+  },
+  {
+    "name": "朵妮朵絲 臉部保養-抗氧化 1094 精華油",
+    "code": "DU00498Y26D0223M0264S01",
+    "price": 2280,
+    "bonus": 264,
+    "category": "秒殺商品",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/DU00498250006/17617205744976.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 2380,
+        "avg": 2380,
+        "label": "1瓶( 2,380 )  平均每瓶( 2,380 )"
+      },
+      {
+        "qty": 2,
+        "total": 4660,
+        "avg": 2330,
+        "label": "2瓶( 4,660 )  平均每瓶( 2,330 )"
+      },
+      {
+        "qty": 3,
+        "total": 6840,
+        "avg": 2280,
+        "label": "3瓶( 6,840 )  平均每瓶( 2,280 )"
+      }
+    ]
+  },
+  {
+    "name": "朵妮朵絲 臉部保養 玫瑰／茉莉精露",
+    "code": "DU00498Y25D1223M0052S01",
+    "price": 550,
+    "bonus": 52,
+    "category": "秒殺商品",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/DU00498250007/17617220271684.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 650,
+        "avg": 650,
+        "label": "1瓶( 650 )  平均每瓶( 650 )"
+      },
+      {
+        "qty": 2,
+        "total": 1200,
+        "avg": 600,
+        "label": "2瓶( 1,200 )  平均每瓶( 600 )"
+      },
+      {
+        "qty": 3,
+        "total": 1750,
+        "avg": 584,
+        "label": "3瓶( 1,750 )  平均每瓶( 584 )"
+      },
+      {
+        "qty": 4,
+        "total": 2300,
+        "avg": 575,
+        "label": "4瓶( 2,300 )  平均每瓶( 575 )"
+      },
+      {
+        "qty": 6,
+        "total": 3400,
+        "avg": 567,
+        "label": "6瓶( 3,400 )  平均每瓶( 567 )"
+      },
+      {
+        "qty": 8,
+        "total": 4400,
+        "avg": 550,
+        "label": "8瓶( 4,400 )  平均每瓶( 550 )"
+      }
+    ]
+  },
+  {
+    "name": "朵妮朵絲 肌膚／私密保養系列",
+    "code": "DU00498Y26D0223M0055S01",
+    "price": 810,
+    "bonus": 55,
+    "category": "秒殺商品",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/DU00498250012/17617232824751.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 910,
+        "avg": 910,
+        "label": "1瓶( 910 )  平均每瓶( 910 )"
+      },
+      {
+        "qty": 2,
+        "total": 1720,
+        "avg": 860,
+        "label": "2瓶( 1,720 )  平均每瓶( 860 )"
+      },
+      {
+        "qty": 3,
+        "total": 2530,
+        "avg": 844,
+        "label": "3瓶( 2,530 )  平均每瓶( 844 )"
+      },
+      {
+        "qty": 4,
+        "total": 3340,
+        "avg": 835,
+        "label": "4瓶( 3,340 )  平均每瓶( 835 )"
+      },
+      {
+        "qty": 5,
+        "total": 4050,
+        "avg": 810,
+        "label": "5瓶( 4,050 )  平均每瓶( 810 )"
+      }
+    ]
+  },
+  {
+    "name": "朵妮朵絲 頭皮養護煥活套組",
+    "code": "DU00498Y26D0223M0091S01",
+    "price": 1090,
+    "bonus": 91,
+    "category": "秒殺商品",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/DU00498250017/17617257963156.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1190,
+        "avg": 1190,
+        "label": "1組( 1,190 )  平均每組( 1,190 )"
+      },
+      {
+        "qty": 2,
+        "total": 2280,
+        "avg": 1140,
+        "label": "2組( 2,280 )  平均每組( 1,140 )"
+      },
+      {
+        "qty": 3,
+        "total": 3370,
+        "avg": 1124,
+        "label": "3組( 3,370 )  平均每組( 1,124 )"
+      },
+      {
+        "qty": 4,
+        "total": 4360,
+        "avg": 1090,
+        "label": "4組( 4,360 )  平均每組( 1,090 )"
+      }
+    ]
+  },
+  {
+    "name": "朵妮朵絲 橘黃色的詩擴香儀＋精油2瓶組",
+    "code": "DU00498Y26D0116M0356S01",
+    "price": 3880,
+    "bonus": 356,
+    "category": "秒殺商品",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/DU00498250016/17617253745082.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 3980,
+        "avg": 3980,
+        "label": "1組( 3,980 )  平均每組( 3,980 )"
+      },
+      {
+        "qty": 2,
+        "total": 7760,
+        "avg": 3880,
+        "label": "2組( 7,760 )  平均每組( 3,880 )"
+      }
+    ]
+  },
+  {
+    "name": "朵妮朵絲 身體清潔-浸心植癒沐浴露",
+    "code": "DU00498Y26D0116M0052S01",
+    "price": 820,
+    "bonus": 52,
+    "category": "秒殺商品",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/DU00498250013/17617240289647.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 920,
+        "avg": 920,
+        "label": "1瓶( 920 )  平均每瓶( 920 )"
+      },
+      {
+        "qty": 2,
+        "total": 1740,
+        "avg": 870,
+        "label": "2瓶( 1,740 )  平均每瓶( 870 )"
+      },
+      {
+        "qty": 3,
+        "total": 2560,
+        "avg": 854,
+        "label": "3瓶( 2,560 )  平均每瓶( 854 )"
+      },
+      {
+        "qty": 4,
+        "total": 3380,
+        "avg": 845,
+        "label": "4瓶( 3,380 )  平均每瓶( 845 )"
+      },
+      {
+        "qty": 5,
+        "total": 4100,
+        "avg": 820,
+        "label": "5瓶( 4,100 )  平均每瓶( 820 )"
+      }
+    ]
+  },
+  {
+    "name": "遲來的禮物 護髮膜 320ml",
+    "code": "YA00340Y26D0226M0083S01",
+    "price": 799,
+    "bonus": 83,
+    "category": "秒殺商品",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/YA00340260002/17702797030607.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 849,
+        "avg": 849,
+        "label": "1瓶( 849 )  平均每瓶( 849 )"
+      },
+      {
+        "qty": 2,
+        "total": 1648,
+        "avg": 824,
+        "label": "2瓶( 1,648 )  平均每瓶( 824 )"
+      },
+      {
+        "qty": 4,
+        "total": 3246,
+        "avg": 812,
+        "label": "4瓶( 3,246 )  平均每瓶( 812 )"
+      },
+      {
+        "qty": 8,
+        "total": 6392,
+        "avg": 799,
+        "label": "8瓶( 6,392 )  平均每瓶( 799 )"
+      }
+    ]
+  },
+  {
+    "name": "愛比堤 抗菌除臭襪 12雙／組",
+    "code": "AI00039Y25D1121M0150S01",
+    "price": 1500,
+    "bonus": 150,
+    "category": "秒殺商品",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/AI00039250035/17655166591771.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1500,
+        "avg": 1500,
+        "label": "1組( 1,500 )  平均每組( 1,500 )"
+      }
+    ]
+  },
+  {
+    "name": "朵妮朵絲 身體保養-節氣湯浴16味",
+    "code": "DU00498Y26D0116M0035S01",
+    "price": 810,
+    "bonus": 35,
+    "category": "秒殺商品",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/DU00498250009/17617225568874.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 910,
+        "avg": 910,
+        "label": "1瓶( 910 )  平均每瓶( 910 )"
+      },
+      {
+        "qty": 2,
+        "total": 1720,
+        "avg": 860,
+        "label": "2瓶( 1,720 )  平均每瓶( 860 )"
+      },
+      {
+        "qty": 3,
+        "total": 2530,
+        "avg": 844,
+        "label": "3瓶( 2,530 )  平均每瓶( 844 )"
+      },
+      {
+        "qty": 4,
+        "total": 3340,
+        "avg": 835,
+        "label": "4瓶( 3,340 )  平均每瓶( 835 )"
+      },
+      {
+        "qty": 5,
+        "total": 4050,
+        "avg": 810,
+        "label": "5瓶( 4,050 )  平均每瓶( 810 )"
+      }
+    ]
+  },
+  {
+    "name": "朵妮朵絲 複方情緒擴香-四件套組",
+    "code": "DU00498Y26D0116M0276S01",
+    "price": 3000,
+    "bonus": 276,
+    "category": "秒殺商品",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/DU00498250015/17617251035857.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 3100,
+        "avg": 3100,
+        "label": "1組( 3,100 )  平均每組( 3,100 )"
+      },
+      {
+        "qty": 2,
+        "total": 6000,
+        "avg": 3000,
+        "label": "2組( 6,000 )  平均每組( 3,000 )"
+      }
+    ]
+  },
+  {
+    "name": "朵妮朵絲 複方情緒擴香 釋壓 No.37／放鬆 No.66",
+    "code": "DU00498Y26D0116M0072S01",
+    "price": 820,
+    "bonus": 72,
+    "category": "秒殺商品",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/DU00498250003/17617198213463.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 920,
+        "avg": 920,
+        "label": "1瓶( 920 )  平均每瓶( 920 )"
+      },
+      {
+        "qty": 2,
+        "total": 1740,
+        "avg": 870,
+        "label": "2瓶( 1,740 )  平均每瓶( 870 )"
+      },
+      {
+        "qty": 3,
+        "total": 2560,
+        "avg": 854,
+        "label": "3瓶( 2,560 )  平均每瓶( 854 )"
+      },
+      {
+        "qty": 4,
+        "total": 3380,
+        "avg": 845,
+        "label": "4瓶( 3,380 )  平均每瓶( 845 )"
+      },
+      {
+        "qty": 5,
+        "total": 4100,
+        "avg": 820,
+        "label": "5瓶( 4,100 )  平均每瓶( 820 )"
+      }
+    ]
+  },
+  {
+    "name": "【快樂價】KINYO 掃震電動牙刷ETB-895",
+    "code": "NA00268250007",
+    "price": 1070,
+    "bonus": 0,
+    "category": "快樂價",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/NA00268250005/17568877683707.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1070,
+        "avg": 1070,
+        "label": "1組( 1,070 )  平均每組( 1,070 )"
+      }
+    ]
+  },
+  {
+    "name": "【快樂價】KINYO 免手持肩頸揉捏按摩器 IAM-2706",
+    "code": "NA00268250008",
+    "price": 1740,
+    "bonus": 0,
+    "category": "快樂價",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/NA00268240010/17103827814634.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 1740,
+        "avg": 1740,
+        "label": "1台( 1,740 )  平均每台( 1,740 )"
+      }
+    ]
+  },
+  {
+    "name": "病毒盾VirusOUT貼紙 中瓶貼 20張／組",
+    "code": "LU00000210061",
+    "price": 120,
+    "bonus": 0,
+    "category": "限時回饋",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/LU00000210061/16231420366208.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 160,
+        "avg": 160,
+        "label": "1組( 160 )  平均每組( 160 )"
+      },
+      {
+        "qty": 2,
+        "total": 260,
+        "avg": 130,
+        "label": "2組( 260 )  平均每組( 130 )"
+      },
+      {
+        "qty": 3,
+        "total": 360,
+        "avg": 120,
+        "label": "3組( 360 )  平均每組( 120 )"
+      }
+    ]
+  },
+  {
+    "name": "幸福鱸魚5入裝紙盒（粉橘版）5個／組",
+    "code": "SH00169230086",
+    "price": 600,
+    "bonus": 0,
+    "category": "限時回饋",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/SH00169230086/1691044252644.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 600,
+        "avg": 600,
+        "label": "1組( 600 )  平均每組( 600 )"
+      },
+      {
+        "qty": 2,
+        "total": 1200,
+        "avg": 600,
+        "label": "2組( 1,200 )  平均每組( 600 )"
+      },
+      {
+        "qty": 3,
+        "total": 1800,
+        "avg": 600,
+        "label": "3組( 1,800 )  平均每組( 600 )"
+      }
+    ]
+  },
+  {
+    "name": "得意 抽取式廚房紙巾 5箱／組【宅配】",
+    "code": "YU00059210025",
+    "price": 2850,
+    "bonus": 0,
+    "category": "限時回饋",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/JI00116200003/15882308357612.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 2850,
+        "avg": 2850,
+        "label": "1組( 2,850 )  平均每組( 2,850 )"
+      }
+    ]
+  },
+  {
+    "name": "大頭叔叔 黃金焦糖爆米花",
+    "code": "CH00038260004",
+    "price": 136,
+    "bonus": 0,
+    "category": "限時回饋",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00038260003/17726097257615.jpg",
+    "plans": [
+      {
+        "qty": 3,
+        "total": 520,
+        "avg": 174,
+        "label": "3支( 520 )  平均每支( 174 )"
+      },
+      {
+        "qty": 35,
+        "total": 4760,
+        "avg": 136,
+        "label": "35支( 4,760 )  平均每支( 136 )"
+      }
+    ]
+  },
+  {
+    "name": "幸福鱸魚10入裝紙盒（粉橘版）5個／組",
+    "code": "SH00169230087",
+    "price": 760,
+    "bonus": 0,
+    "category": "限時回饋",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/SH00169230087/1695353561967.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 760,
+        "avg": 760,
+        "label": "1組( 760 )  平均每組( 760 )"
+      },
+      {
+        "qty": 2,
+        "total": 1520,
+        "avg": 760,
+        "label": "2組( 1,520 )  平均每組( 760 )"
+      },
+      {
+        "qty": 3,
+        "total": 2280,
+        "avg": 760,
+        "label": "3組( 2,280 )  平均每組( 760 )"
+      }
+    ]
+  },
+  {
+    "name": "大頭叔叔 黃金焦糖爆米花【自取】",
+    "code": "CH00038260003",
+    "price": 130,
+    "bonus": 0,
+    "category": "限時回饋",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/CH00038260003/17726097257615.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 130,
+        "avg": 130,
+        "label": "1支( 130 )  平均每支( 130 )"
+      },
+      {
+        "qty": 2,
+        "total": 260,
+        "avg": 130,
+        "label": "2支( 260 )  平均每支( 130 )"
+      }
+    ]
+  },
+  {
+    "name": "Meta Water 未來萃能水3入裝小盒子 10入／組",
+    "code": "SH00169230074",
+    "price": 250,
+    "bonus": 0,
+    "category": "挖輔銷",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/SH00169230074/168714623748.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 250,
+        "avg": 250,
+        "label": "1組( 250 )  平均每組( 250 )"
+      },
+      {
+        "qty": 2,
+        "total": 500,
+        "avg": 250,
+        "label": "2組( 500 )  平均每組( 250 )"
+      },
+      {
+        "qty": 3,
+        "total": 750,
+        "avg": 250,
+        "label": "3組( 750 )  平均每組( 250 )"
+      }
+    ]
+  },
+  {
+    "name": "淨衣衛 分裝空瓶100ml 20入／組【自取】",
+    "code": "LU00000250050",
+    "price": 140,
+    "bonus": 0,
+    "category": "挖輔銷",
+    "image": "https://dxpqg5f7jnxq8.cloudfront.net/editor/LU00000250050/17555847796601.jpg",
+    "plans": [
+      {
+        "qty": 1,
+        "total": 140,
+        "avg": 140,
+        "label": "1組( 140 )  平均每組( 140 )"
+      },
+      {
+        "qty": 2,
+        "total": 280,
+        "avg": 140,
+        "label": "2組( 280 )  平均每組( 140 )"
+      }
+    ]
+  }
+]

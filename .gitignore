@@ -24,7 +24,6 @@ Thumbs.db
 *.bak
 *.bak2
 
-# 由 update_data.py 在本機產生（含爬下的商品資料）。
-# 若使用「僅公司內部」的私人 GitHub 儲存庫，且你希望員工 clone 就有資料，
-# 可刪除下面這一行，再把目前的 web/products.json 一併提交（請自行評估是否含敏感資訊）。
-web/products.json
+# web/products.json：已改為可提交，讓 GitHub Pages 有商品資料。
+# 本機用 update_data.py 更新後再 commit + push 即可同步到網站。
+# （若儲存庫為 Public，此檔內容對外可見，請自行評估是否可公開。）
