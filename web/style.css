@@ -1,0 +1,864 @@
+/* 比照 LUXCAT 官網（luxcat.life）：米色底 #e1d7c3、頂欄 #333、金色標題 #bea078、Noto Sans TC；字級仍以 rem 為主 */
+:root {
+  /* 手機瀏覽器列會讓 100vh 失真，優先用 100dvh；舊瀏覽器退回 vh */
+  --app-vh: 100vh;
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --safe-left: env(safe-area-inset-left, 0px);
+  --safe-right: env(safe-area-inset-right, 0px);
+  --lux-tan: #e1d7c3;
+  --lux-gold: #bea078;
+  --lux-gold-deep: #9a7f5e;
+  --lux-nav: #333333;
+  --lux-black: #1e1e1e;
+  --lux-gray-bg: #eeeeee;
+  --lux-white: #ffffff;
+  --lux-border: #cccccc;
+  --lux-border-mid: #b8b8b8;
+  --lux-border-light: #dddddd;
+  --lux-text: #1e1e1e;
+  --lux-text-muted: #5c5c5c;
+  --lux-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  --lux-shadow-soft: 0 0.125rem 0.75rem rgba(0, 0, 0, 0.06);
+  --bg: var(--lux-white);
+  --bg-elevated: var(--lux-white);
+  --bg-subtle: var(--lux-gray-bg);
+  --border: var(--lux-border-light);
+  --border-strong: var(--lux-border-mid);
+  --text: var(--lux-text);
+  --text-muted: var(--lux-text-muted);
+  --accent-gold: var(--lux-gold);
+  --accent-gold-bright: #c9ae88;
+  --accent-gold-dim: var(--lux-gold-deep);
+  --danger: #c44c4c;
+  --font-sans: "Noto Sans TC", system-ui, sans-serif;
+  --transition-numbers: 0.35s ease-out;
+  --radius-panel: 0.5rem;
+  --radius-control: 0.35rem;
+}
+
+@supports (height: 100dvh) {
+  :root {
+    --app-vh: 100dvh;
+  }
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html {
+  font-size: 100%;
+  overflow-x: clip;
+}
+
+body.lux-body,
+.lux-body {
+  margin: 0;
+  min-height: 100vh;
+  min-height: var(--app-vh);
+  padding-left: var(--safe-left);
+  padding-right: var(--safe-right);
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  line-height: 1.55;
+  font-weight: 400;
+  color: var(--text);
+  background: var(--lux-tan);
+}
+
+/* —— LUXCAT 風格：固定頂欄 —— */
+.lux-site-header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  width: 100%;
+  background-color: var(--lux-nav);
+  color: var(--lux-white);
+  box-shadow: var(--lux-shadow);
+  padding: 0.625rem 0 0;
+  /* iOS 瀏海：頂欄從安全區下緣貼齊 */
+  padding-top: calc(0.375rem + var(--safe-top));
+}
+
+.lux-site-header-inner {
+  max-width: 67.5rem;
+  margin: 0 auto;
+  padding: 0.5rem max(1rem, var(--safe-right)) 0.75rem max(1rem, var(--safe-left));
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 0.5rem 1.5rem;
+}
+
+.lux-brand-block {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.125rem;
+}
+
+.lux-logo {
+  font-size: 1.125rem;
+  font-weight: 900;
+  letter-spacing: 0.35em;
+  line-height: 1.2;
+}
+
+.lux-logo-sub {
+  font-size: 0.75rem;
+  font-weight: 300;
+  letter-spacing: 0.2em;
+  opacity: 0.92;
+}
+
+.lux-header-note {
+  margin: 0;
+  font-size: 0.875rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  opacity: 0.95;
+}
+
+.lux-main {
+  max-width: 67.5rem;
+  margin: 0 auto;
+  padding: 1.5rem max(1rem, var(--safe-right)) max(2.5rem, calc(1.25rem + var(--safe-bottom))) max(1rem, var(--safe-left));
+}
+
+.lux-footer {
+  max-width: 67.5rem;
+  margin: 0 auto;
+  padding: 0 max(1rem, var(--safe-right)) max(2rem, calc(1rem + var(--safe-bottom))) max(1rem, var(--safe-left));
+  text-align: center;
+}
+
+.lux-footer-text {
+  margin: 0;
+  font-size: 0.8125rem;
+  font-weight: 300;
+  color: var(--lux-text-muted);
+  letter-spacing: 0.06em;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* 主內容白卡區（對應官網區塊與留白） */
+.page-header {
+  max-width: none;
+  margin: 0 0 1.25rem;
+  padding: 1.5rem 1.25rem 1.25rem;
+  background: var(--lux-white);
+  border: 1px solid var(--lux-border-light);
+  border-radius: var(--radius-panel);
+  box-shadow: var(--lux-shadow-soft);
+  border-top: 0.1875rem solid var(--lux-gold);
+}
+
+.page-title {
+  margin: 0 0 1rem;
+  font-size: clamp(1.375rem, 3.5vw, 1.875rem);
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  color: var(--lux-gold);
+  line-height: 1.25;
+}
+
+.search-wrap { display: block; }
+
+.search-input {
+  width: 100%;
+  max-width: 36rem;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  font-family: inherit;
+  font-weight: 400;
+  color: var(--text);
+  background: var(--lux-white);
+  border: 1px solid var(--lux-border);
+  border-radius: var(--radius-control);
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.04);
+}
+.search-input::placeholder { color: var(--text-muted); font-weight: 300; }
+.search-input:focus {
+  outline: 2px solid var(--lux-gold);
+  outline-offset: 2px;
+  border-color: var(--lux-gold);
+}
+
+.bonus-ratio-bar {
+  margin-top: 1rem;
+  padding: 0.75rem 0 0;
+  border-top: 1px solid var(--lux-border-light);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.65rem 1.25rem;
+}
+.bonus-ratio-heading {
+  font-size: 0.9375rem;
+  font-weight: 700;
+  color: var(--lux-nav);
+  margin: 0;
+  letter-spacing: 0.06em;
+}
+.bonus-ratio-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.25rem;
+}
+.bonus-ratio-option {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  color: var(--text-muted);
+  cursor: pointer;
+}
+.bonus-ratio-option input {
+  width: 1.1rem;
+  height: 1.1rem;
+  accent-color: var(--lux-nav);
+  cursor: pointer;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.25rem;
+  max-width: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* 桌機：左清單、右結算 */
+@media (min-width: 1024px) {
+  /* 讓右欄可被 max-height 限制，內層捲軸才能生效 */
+  .layout { grid-template-columns: 1fr 22rem; align-items: start; min-height: 0; }
+}
+
+/*
+ * 手機／窄螢為單欄時，結算在 HTML 裡排在商品後面 → 會落在清單「最底下」像消失一樣。
+ * 直向或小於 768 寬：結算改排到最上面（order:-1），免滑很久。
+ * 768–1023 橫向：改兩欄，恢復「左商品、右結算」。
+ */
+@media (max-width: 1023px) {
+  .checkout-panel {
+    order: -1;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) and (orientation: landscape) {
+  .layout {
+    grid-template-columns: 1fr minmax(14rem, 34vw);
+    align-items: start;
+    min-height: 0;
+  }
+
+  .checkout-panel {
+    order: 0;
+  }
+}
+
+.panel {
+  background: var(--lux-white);
+  border: 1px solid var(--lux-border-light);
+  border-radius: var(--radius-panel);
+  padding: 1rem;
+  box-shadow: var(--lux-shadow-soft);
+}
+.panel-title {
+  margin: 0 0 1rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+  padding-bottom: 0.65rem;
+  border-bottom: 1px solid var(--lux-border);
+  color: var(--lux-nav);
+  text-align: center;
+  letter-spacing: 0.08em;
+}
+
+.list-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+.products-stats {
+  margin: 0;
+  flex: 1 1 14rem;
+  font-size: 0.875rem;
+  font-weight: 400;
+  color: var(--text-muted);
+  line-height: 1.45;
+}
+.page-size-label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.875rem;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+.page-size-select {
+  min-height: 2.5rem;
+  padding: 0.35rem 0.5rem;
+  font-size: 0.875rem;
+  font-family: inherit;
+  color: var(--text);
+  background: var(--lux-white);
+  border: 1px solid var(--lux-border);
+  border-radius: var(--radius-control);
+}
+.page-size-select:focus {
+  outline: 2px solid var(--lux-gold);
+  outline-offset: 2px;
+}
+
+.category-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 0 0 1rem;
+}
+.category-chip {
+  min-height: 2.25rem;
+  padding: 0.35rem 0.75rem;
+  font-size: 0.875rem;
+  font-family: inherit;
+  font-weight: 500;
+  color: var(--lux-nav);
+  background: var(--lux-gray-bg);
+  border: 1px solid var(--lux-border);
+  border-radius: 999px;
+  cursor: pointer;
+  transition: border-color 0.15s ease, background 0.15s ease, color 0.15s ease;
+}
+.category-chip:hover {
+  border-color: var(--lux-gold);
+  color: var(--lux-gold-deep);
+  background: var(--lux-white);
+}
+.category-chip.is-active {
+  border-color: var(--lux-gold);
+  background: rgba(190, 160, 120, 0.2);
+  font-weight: 700;
+  color: var(--lux-black);
+}
+
+.pagination-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.65rem 1rem;
+  margin-top: 1.25rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--lux-border-light);
+}
+.pagination-info {
+  font-size: 0.875rem;
+  color: var(--text-muted);
+  text-align: center;
+  flex: 1 1 100%;
+}
+@media (min-width: 520px) {
+  .pagination-info {
+    flex: 0 1 auto;
+    text-align: left;
+  }
+}
+.page-btn {
+  min-height: 2.75rem;
+  padding: 0.4rem 0.9rem;
+  font-size: 0.9375rem;
+  font-family: inherit;
+  font-weight: 600;
+  color: var(--lux-white);
+  background: var(--lux-nav);
+  border: 1px solid var(--lux-nav);
+  border-radius: var(--radius-control);
+  cursor: pointer;
+  transition: background 0.15s ease, opacity 0.15s ease;
+}
+.page-btn:hover:not(:disabled) {
+  background: #1a1a1a;
+  border-color: #1a1a1a;
+}
+.page-btn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.pagination-pages {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  justify-content: center;
+  width: 100%;
+}
+@media (min-width: 640px) {
+  .pagination-pages { width: auto; flex: 0 1 auto; }
+}
+.page-num-btn:disabled {
+  opacity: 1;
+  cursor: default;
+  border-color: var(--lux-gold);
+  background: var(--lux-gold);
+  color: var(--lux-white);
+  font-weight: 700;
+}
+
+.product-list { display: flex; flex-direction: column; gap: 0.75rem; }
+
+.product-card {
+  display: grid;
+  grid-template-columns: 5.25rem 1fr;
+  gap: 0.75rem;
+  align-items: start;
+  padding: 1rem;
+  background: var(--lux-gray-bg);
+  border: 1px solid var(--lux-border-light);
+  border-radius: var(--radius-control);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+.product-card:hover {
+  border-color: var(--lux-gold);
+  box-shadow: var(--lux-shadow-soft);
+}
+
+.product-thumb {
+  width: 5.25rem;
+  height: 5.25rem;
+  border-radius: var(--radius-control);
+  border: 1px solid var(--lux-border);
+  background: var(--lux-white);
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.product-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.product-thumb--empty {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  text-align: center;
+  padding: 0.25rem;
+  line-height: 1.3;
+}
+.product-card-body {
+  display: grid;
+  gap: 0.5rem;
+  min-width: 0;
+}
+
+.product-name {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--lux-nav);
+  word-break: break-word;
+  overflow-wrap: anywhere;
+}
+.product-code { margin: 0; font-size: 0.8125rem; color: var(--text-muted); font-weight: 300; word-break: break-all; }
+
+.price-line { margin: 0; font-size: 0.9375rem; color: var(--text-muted); }
+.price-line strong { color: var(--text); font-weight: 600; }
+
+.bonus-line { margin: 0; font-size: 1.25rem; font-weight: 700; color: var(--lux-gold); letter-spacing: 0.04em; }
+.bonus-line .currency { font-size: 0.875rem; font-weight: 500; color: var(--lux-gold-deep); }
+
+.card-preview {
+  margin: 0;
+  padding: 0.5rem 0.65rem;
+  font-size: 0.875rem;
+  line-height: 1.45;
+  color: var(--text-muted);
+  background: rgba(190, 160, 120, 0.12);
+  border: 1px solid var(--lux-border-light);
+  border-radius: var(--radius-control);
+}
+.card-preview strong { color: var(--text); }
+.card-preview .preview-bonus strong { color: var(--lux-gold); }
+.card-preview .preview-hint {
+  margin: 0 0 0.35rem;
+  font-size: 0.8125rem;
+  color: var(--text-muted);
+  line-height: 1.4;
+}
+
+.plan-row {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+.plan-label {
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: var(--text-muted);
+}
+.plan-select {
+  width: 100%;
+  max-width: 100%;
+  min-height: 2.75rem;
+  padding: 0.4rem 0.55rem;
+  font-size: 0.9375rem;
+  font-family: inherit;
+  color: var(--text);
+  background: var(--lux-white);
+  border: 1px solid var(--lux-border);
+  border-radius: var(--radius-control);
+}
+.plan-select:focus {
+  outline: 2px solid var(--lux-gold);
+  outline-offset: 2px;
+}
+
+.card-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; }
+
+.qty-input {
+  width: 5rem;
+  min-height: 2.75rem;
+  padding: 0.35rem 0.5rem;
+  font-size: 1rem;
+  font-family: inherit;
+  color: var(--text);
+  background: var(--lux-white);
+  border: 1px solid var(--lux-border);
+  border-radius: 0.35rem;
+}
+
+.btn {
+  min-height: 2.75rem;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  font-family: inherit;
+  font-weight: 600;
+  border: none;
+  border-radius: 0.35rem;
+  cursor: pointer;
+  letter-spacing: 0.04em;
+}
+/* 官網新聞區 CTA 風格：深灰底白字 */
+.btn-primary {
+  color: var(--lux-white);
+  background-color: var(--lux-nav);
+  border: 1px solid var(--lux-nav);
+}
+.btn-primary:hover { filter: brightness(1.12); }
+.btn-secondary {
+  width: 100%;
+  margin-top: 0.75rem;
+  color: var(--lux-nav);
+  background: transparent;
+  border: 1px solid var(--lux-nav);
+}
+.btn-secondary:hover {
+  background: rgba(51, 51, 51, 0.06);
+  border-color: var(--lux-gold);
+  color: var(--lux-gold-deep);
+}
+
+.empty-hint { margin: 0.5rem 0 0; font-size: 0.9375rem; color: var(--text-muted); font-weight: 400; }
+.checkout-empty-hint { margin-top: 0; }
+
+/* 結算欄：獨立捲動區＋底部合計固定
+ * 註：若用 flex:1 且父層高度為 auto，捲動區會被壓成細縫；改為明確 min/max-height */
+.checkout-panel {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.checkout-panel > .panel-title {
+  flex-shrink: 0;
+}
+
+.checkout-scroll {
+  flex: 0 1 auto;
+  min-width: 0;
+  /* 預設仍以 vh 為後備；手機用 orientation + --app-vh 覆寫 */
+  min-height: max(16rem, 42vh);
+  max-height: min(72vh, calc(100vh - 10rem));
+  overflow-y: auto;
+  overflow-x: hidden;
+  -webkit-overflow-scrolling: touch;
+  padding: 0.5rem;
+  margin-bottom: 0.5rem;
+  border: 1px solid var(--lux-border-light);
+  border-radius: var(--radius-control);
+  background: var(--lux-white);
+  scrollbar-gutter: stable;
+}
+
+@media (min-width: 1024px) {
+  .checkout-panel {
+    align-self: start;
+    position: sticky;
+    top: 3.25rem;
+    /* 高度由內容決定；勿對整卡設 max-height，否則子項 min-height 疊加會被裁切 */
+  }
+
+  .checkout-scroll {
+    /* 寬螢幕：給足閱讀高度；長清單在框內捲動 */
+    min-height: max(18rem, 36vh);
+    max-height: min(65vh, calc(var(--app-vh) - 11rem));
+  }
+}
+
+/* 窄螢幕（含手機直向約 9:16）：預設捲動高度＋安全區；橫向規則在下方覆寫 */
+@media (max-width: 1023px) {
+  .checkout-scroll {
+    scrollbar-gutter: auto;
+    min-height: max(12rem, 28vh);
+    max-height: min(52vh, calc(var(--app-vh) - 11.5rem - var(--safe-bottom)));
+  }
+
+  .lux-main {
+    padding-top: 1.25rem;
+  }
+}
+
+/* 手機橫向（約 16:9）：高度很淺，縮小頂部與主卡、結算塊改以可用視窗高度為主 */
+@media (max-width: 1023px) and (orientation: landscape) {
+  .lux-site-header-inner {
+    padding-top: 0.35rem;
+    padding-bottom: 0.45rem;
+    align-items: center;
+  }
+
+  .lux-logo {
+    font-size: 1rem;
+    letter-spacing: 0.22em;
+  }
+
+  .lux-logo-sub {
+    font-size: 0.6875rem;
+  }
+
+  .lux-header-note {
+    font-size: 0.8125rem;
+  }
+
+  .lux-main {
+    padding: 0.65rem max(0.75rem, var(--safe-right)) max(1.25rem, calc(0.75rem + var(--safe-bottom))) max(0.75rem, var(--safe-left));
+  }
+
+  .page-header {
+    margin-bottom: 0.65rem;
+    padding: 0.75rem 1rem;
+  }
+
+  .page-title {
+    font-size: 1.125rem;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.5rem;
+  }
+
+  .bonus-ratio-bar {
+    margin-top: 0.65rem;
+    padding-top: 0.5rem;
+    gap: 0.45rem 0.75rem;
+  }
+
+  .layout {
+    gap: 0.85rem;
+  }
+
+  .checkout-scroll {
+    min-height: max(5.5rem, 28vh);
+    max-height: min(42vh, calc(var(--app-vh) - 6.5rem - var(--safe-bottom)));
+    scrollbar-gutter: auto;
+  }
+
+  .total-revenue {
+    font-size: 1.375rem;
+  }
+
+  .total-bonus {
+    font-size: 1.75rem;
+  }
+}
+
+.checkout-panel .grand-totals-block,
+.checkout-panel .btn-secondary {
+  flex-shrink: 0;
+}
+
+.checkout-sections {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  margin-bottom: 0;
+}
+.ratio-block {
+  padding: 0.75rem;
+  background: var(--lux-gray-bg);
+  border: 1px solid var(--lux-border-light);
+  border-radius: var(--radius-control);
+}
+.ratio-block-title {
+  margin: 0 0 0.65rem;
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--lux-gold);
+  letter-spacing: 0.08em;
+}
+.ratio-empty-hint {
+  margin: 0 0 0.5rem;
+}
+.ratio-subtotals {
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+  border-top: 1px dashed var(--lux-border);
+}
+.ratio-sub-row {
+  padding: 0.4rem 0;
+  border-top: none;
+}
+.ratio-sub-row + .ratio-sub-row {
+  border-top: 1px solid var(--lux-border-light);
+}
+.sub-total-revenue {
+  margin-left: auto;
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: var(--text);
+}
+.sub-total-bonus {
+  margin-left: auto;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--lux-gold);
+}
+.grand-totals-block {
+  margin-top: 0.75rem;
+  padding-top: 0.5rem;
+  border-top: 2px solid var(--lux-gold);
+}
+
+.cart-list { list-style: none; margin: 0; padding: 0; }
+.cart-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--lux-border-light);
+  font-size: 0.9375rem;
+}
+.cart-item:last-child { border-bottom: none; }
+
+.cart-item-top {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.cart-item-name {
+  margin: 0;
+  flex: 1 1 auto;
+  min-width: 0;
+  font-weight: 700;
+  color: var(--lux-nav);
+  line-height: 1.35;
+}
+
+.cart-qty-wrap {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.cart-sub { text-align: right; color: var(--lux-gold); font-weight: 600; }
+.cart-qty {
+  width: 4.5rem;
+  min-height: 2.75rem;
+  padding: 0.25rem 0.4rem;
+  font-size: 0.9375rem;
+  font-family: inherit;
+  color: var(--text);
+  background: var(--lux-white);
+  border: 1px solid var(--lux-border);
+  border-radius: 0.35rem;
+}
+
+.btn-remove {
+  align-self: flex-start;
+  min-height: 2.25rem;
+  padding: 0.2rem 0.5rem;
+  font-size: 0.8125rem;
+  color: var(--danger);
+  background: transparent;
+  border: 1px solid transparent;
+  cursor: pointer;
+  border-radius: 0.25rem;
+}
+.btn-remove:hover { border-color: var(--danger); background: rgba(196, 76, 76, 0.08); }
+
+.subtotal-block { padding-top: 0.5rem; }
+
+.total-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.35rem 0.5rem;
+  padding: 0.75rem 0;
+  border-top: 1px solid var(--lux-border-light);
+}
+.total-label { font-size: 1rem; font-weight: 600; color: var(--lux-nav); }
+
+.total-revenue {
+  margin-left: auto;
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: var(--text);
+  transition: color var(--transition-numbers), transform var(--transition-numbers);
+}
+.total-revenue.is-updated { transform: scale(1.04); }
+.total-revenue-row { border-top: none; padding-top: 0.25rem; }
+
+.total-bonus {
+  margin-left: auto;
+  font-size: 2.25rem;
+  font-weight: 700;
+  color: var(--lux-gold);
+  transition: color var(--transition-numbers), transform var(--transition-numbers);
+}
+.total-bonus.is-updated { transform: scale(1.04); }
+
+.total-unit { font-size: 1rem; color: var(--lux-gold-deep); font-weight: 500; }
+
+@media (max-width: 768px) {
+  .btn, .qty-input { min-height: 2.75rem; }
+  .page-title { font-size: 1.375rem; letter-spacing: 0.1em; }
+  .total-revenue { font-size: 1.5rem; }
+  .total-bonus { font-size: 2rem; }
+  .product-card { grid-template-columns: 1fr; }
+  .product-thumb,
+  .product-thumb.product-thumb--empty {
+    width: 100%;
+    max-width: 8rem;
+    height: 8rem;
+    margin: 0 auto;
+  }
+  .lux-logo { letter-spacing: 0.25em; font-size: 1rem; }
+}

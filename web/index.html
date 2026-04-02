@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<!-- 福貓挖寶 獎金計算機（前端頁面） -->
+<html lang="zh-Hant">
+  <head>
+    <!-- 基本設定：字元集 / RWD 入口 -->
+    <meta charset="UTF-8" />
+    <!-- viewport-fit：瀏海／底部橫條安全區；配合 style.css 的 env(safe-area-inset-*) -->
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, viewport-fit=cover"
+    />
+
+    <!-- 頁面標題（瀏覽器分頁顯示用） -->
+    <title>福貓挖寶 獎金計算機</title>
+
+    <!-- Google Fonts：比照 LUXCAT 官網（Noto Sans TC 多字重） -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700;900&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- 主要樣式表：深色主題、rem 單位、RWD -->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body class="lux-body">
+    <!-- 頂部導覽列：比照 LUXCAT 固定深色列 + 白字 -->
+    <header class="lux-site-header" role="banner">
+      <div class="lux-site-header-inner">
+        <div class="lux-brand-block">
+          <span class="lux-logo">LUXCAT</span>
+          <span class="lux-logo-sub">福貓微創</span>
+        </div>
+        <p class="lux-header-note">獎金試算工具</p>
+      </div>
+    </header>
+
+    <main class="lux-main" id="main-content">
+    <!-- 頁面頭部：標題 + 即時搜尋框 -->
+    <header class="page-header">
+      <h1 class="page-title">福貓挖寶 獎金計算機</h1>
+
+      <!-- 搜尋輸入：由 JS 監聽 input 事件即時篩選 -->
+      <label class="search-wrap">
+        <!-- 螢幕閱讀器可讀文字：避免只有視覺提示 -->
+        <span class="visually-hidden">搜尋商品</span>
+        <input
+          type="search"
+          id="search-input"
+          class="search-input"
+          placeholder="即時搜尋商品名稱（仍可貼編碼找商品，結算區不顯示編碼）"
+          autocomplete="off"
+        />
+      </label>
+
+      <!-- 加入結算前請先選比例；獎金會依比例折算，營業額維持原價合計 -->
+      <div class="bonus-ratio-bar" role="radiogroup" aria-labelledby="bonus-ratio-label">
+        <span id="bonus-ratio-label" class="bonus-ratio-heading">你的獎金比例</span>
+        <div class="bonus-ratio-options">
+          <label class="bonus-ratio-option">
+            <input type="radio" name="bonus-ratio" value="100" checked />
+            <span>100%</span>
+          </label>
+          <label class="bonus-ratio-option">
+            <input type="radio" name="bonus-ratio" value="50" />
+            <span>50%</span>
+          </label>
+          <label class="bonus-ratio-option">
+            <input type="radio" name="bonus-ratio" value="25" />
+            <span>25%</span>
+          </label>
+        </div>
+      </div>
+    </header>
+
+    <!-- 主版面：商品列表區 + 結算區（桌機左右、手機上下） -->
+    <div class="layout">
+      <!-- 商品列表區：由 main.js 從 products.json 動態渲染卡片 -->
+      <section class="panel products-panel">
+        <h2 class="panel-title">商品列表</h2>
+
+        <!-- 筆數說明 + 每頁顯示（避免分頁時誤以為商品不見） -->
+        <div class="list-toolbar">
+          <p id="products-stats" class="products-stats" aria-live="polite"></p>
+          <label class="page-size-label">
+            <span>每頁顯示</span>
+            <select id="page-size-select" class="page-size-select" aria-label="每頁顯示筆數">
+              <option value="5" selected>5</option>
+              <option value="16">16</option>
+              <option value="32">32</option>
+              <option value="48">48</option>
+              <option value="96">96</option>
+              <option value="99999">全部</option>
+            </select>
+          </label>
+        </div>
+
+        <!-- 與官網 kind1 一致的分類（資料來自 update_data.py 寫入之 category） -->
+        <nav id="category-bar" class="category-bar" aria-label="商品分類"></nav>
+
+        <div id="product-list" class="product-list"></div>
+
+        <!-- 搜尋後沒有結果時顯示的提示 -->
+        <p id="products-empty" class="empty-hint" hidden>找不到符合條件的商品。</p>
+
+        <nav id="pagination-bar" class="pagination-bar" aria-label="列表分頁" hidden></nav>
+      </section>
+
+      <!-- 結算區：顯示已加入的清單、每筆小計與總獎金（手機窄螢見 style.css order，會排到清單上方） -->
+      <aside class="panel checkout-panel" id="checkout-panel">
+        <h2 class="panel-title">結算</h2>
+
+        <!-- 可獨立上下捲動：清單再長也不拖長整頁 -->
+        <div class="checkout-scroll">
+        <p id="cart-empty-global" class="empty-hint checkout-empty-hint">尚未加入任何商品。請先選擇「你的獎金比例」，再加入商品。</p>
+
+        <!-- 依加入當時所選比例分三區；營業額為原價合計，獎金為折算後實得 -->
+        <div id="checkout-sections" class="checkout-sections" hidden>
+          <section class="ratio-block" aria-labelledby="ratio-title-100">
+            <h3 id="ratio-title-100" class="ratio-block-title">100% 結算</h3>
+            <ul id="cart-list-100" class="cart-list"></ul>
+            <p id="cart-hint-100" class="ratio-empty-hint empty-hint" hidden>此比例尚無商品。</p>
+            <div class="ratio-subtotals">
+              <div class="total-row ratio-sub-row">
+                <span class="total-label">小計營業額</span>
+                <span id="sub-revenue-100" class="sub-total-revenue">0</span>
+                <span class="total-unit">元</span>
+              </div>
+              <div class="total-row ratio-sub-row">
+                <span class="total-label">小計獎金（實得 · 100%）</span>
+                <span id="sub-bonus-100" class="sub-total-bonus">0</span>
+                <span class="total-unit">元</span>
+              </div>
+            </div>
+          </section>
+
+          <section class="ratio-block" aria-labelledby="ratio-title-50">
+            <h3 id="ratio-title-50" class="ratio-block-title">50% 結算</h3>
+            <ul id="cart-list-50" class="cart-list"></ul>
+            <p id="cart-hint-50" class="ratio-empty-hint empty-hint" hidden>此比例尚無商品。</p>
+            <div class="ratio-subtotals">
+              <div class="total-row ratio-sub-row">
+                <span class="total-label">小計營業額</span>
+                <span id="sub-revenue-50" class="sub-total-revenue">0</span>
+                <span class="total-unit">元</span>
+              </div>
+              <div class="total-row ratio-sub-row">
+                <span class="total-label">小計獎金（實得 · 50%）</span>
+                <span id="sub-bonus-50" class="sub-total-bonus">0</span>
+                <span class="total-unit">元</span>
+              </div>
+            </div>
+          </section>
+
+          <section class="ratio-block" aria-labelledby="ratio-title-25">
+            <h3 id="ratio-title-25" class="ratio-block-title">25% 結算</h3>
+            <ul id="cart-list-25" class="cart-list"></ul>
+            <p id="cart-hint-25" class="ratio-empty-hint empty-hint" hidden>此比例尚無商品。</p>
+            <div class="ratio-subtotals">
+              <div class="total-row ratio-sub-row">
+                <span class="total-label">小計營業額</span>
+                <span id="sub-revenue-25" class="sub-total-revenue">0</span>
+                <span class="total-unit">元</span>
+              </div>
+              <div class="total-row ratio-sub-row">
+                <span class="total-label">小計獎金（實得 · 25%）</span>
+                <span id="sub-bonus-25" class="sub-total-bonus">0</span>
+                <span class="total-unit">元</span>
+              </div>
+            </div>
+          </section>
+        </div>
+        </div>
+
+        <div class="subtotal-block grand-totals-block">
+          <div class="total-row total-revenue-row">
+            <span class="total-label">總營業額合計</span>
+            <span id="total-revenue" class="total-revenue" aria-live="polite">0</span>
+            <span class="total-unit">元</span>
+          </div>
+          <div class="total-row">
+            <span class="total-label">總獎金合計（各比例實得加總）</span>
+            <span id="total-bonus" class="total-bonus" aria-live="polite">0</span>
+            <span class="total-unit">元</span>
+          </div>
+        </div>
+
+        <button type="button" id="clear-all" class="btn btn-secondary">清除全部</button>
+      </aside>
+    </div>
+    </main>
+
+    <footer class="lux-footer">
+      <p class="lux-footer-text">視覺風格比照 LUXCAT 官網（內部使用）</p>
+    </footer>
+
+    <!-- 延後載入：讓 HTML 先完成再執行 main.js -->
+    <script src="main.js" defer></script>
+  </body>
+</html>
