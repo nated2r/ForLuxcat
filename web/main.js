@@ -33,12 +33,14 @@
 
   var CART_PLAN_SEP = "::p";
 
+  /* M 與 S01 之間數字先 ×2 才是每件獎金；再由獎金比例（100/50/25）折算實得 */
   function parseBonusFromCode(code) {
     var s = String(code || "");
     var m = s.match(/M(\d+)S01/);
     if (!m) return null;
     var n = parseInt(m[1], 10);
-    return isNaN(n) ? null : n;
+    if (isNaN(n)) return null;
+    return n * 2;
   }
 
   function getUnitBonus(p) {

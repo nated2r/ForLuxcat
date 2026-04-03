@@ -37,10 +37,10 @@ _PLAN_AVG_LABEL_RE = re.compile(
 
 def parse_bonus(product_code: str) -> int:
     """從商品編碼解析每件獎金金額（新台幣）。"""
-    # 範例 JU00027Y23D001M0219S01：取 M 與 S01 之間數字 0219 → 219
+    # 範例 M0219S01：中段數字 0219 → 219，業務規則為先 ×2 才是每件獎金
     match = re.search(r"M(\d+)S01", product_code)
     if match:
-        return int(match.group(1))
+        return int(match.group(1)) * 2
     return 0
 
 
