@@ -15,6 +15,7 @@
   /* v2：舊鍵 fumao-page-size 曾記 48 等，會蓋掉預設 5；改鍵後一律以每頁 5 為首次默認 */
   var LS_PAGE_SIZE = "fumao-page-size-v2";
   var LS_BONUS_RATIO = "fumao-bonus-ratio";
+  var LS_FULL_ATTENDANCE = "fumao-full-attendance";
   var selectedCategory = "all";
   var currentPage = 1;
 
@@ -29,6 +30,9 @@
   var elCartEmptyGlobal = document.getElementById("cart-empty-global");
   var elTotalRevenue = document.getElementById("total-revenue");
   var elTotalBonus = document.getElementById("total-bonus");
+  var elFullAttendanceCheck = document.getElementById("full-attendance-check");
+  var elFullAttendanceBlock = document.getElementById("full-attendance-bonus-block");
+  var elFullAttendanceBonus = document.getElementById("full-attendance-bonus");
   var elClearAll = document.getElementById("clear-all");
 
   var CART_PLAN_SEP = "::p";
@@ -602,11 +606,26 @@
     }, 400);
   }
 
+  /* 含全勤後獎金＝「總獎金合計（各比例實得加總）」×1.25 */
+  function updateFullAttendanceDisplay(baseBonus) {
+    if (!elFullAttendanceBlock || !elFullAttendanceBonus || !elFullAttendanceCheck) return;
+    if (elFullAttendanceCheck.checked) {
+      elFullAttendanceBlock.hidden = false;
+      var fa = Math.round(Number(baseBonus) * 1.25);
+      elFullAttendanceBonus.textContent = formatInt(fa);
+      pulseEl(elFullAttendanceBonus);
+    } else {
+      elFullAttendanceBlock.hidden = true;
+    }
+  }
+
   function updateTotalsDisplay() {
+    var base = computeGrandBonusScaled();
     elTotalRevenue.textContent = formatInt(computeGrandRevenue());
-    elTotalBonus.textContent = formatInt(computeGrandBonusScaled());
+    elTotalBonus.textContent = formatInt(base);
     pulseEl(elTotalRevenue);
     pulseEl(elTotalBonus);
+    updateFullAttendanceDisplay(base);
   }
 
   function renderCart() {
@@ -615,6 +634,7 @@
       if (elCartEmptyGlobal) elCartEmptyGlobal.hidden = false;
       elTotalRevenue.textContent = "0";
       elTotalBonus.textContent = "0";
+      updateFullAttendanceDisplay(0);
       RATIO_ORDER.forEach(function (rk) {
         var ul = document.getElementById("cart-list-" + rk);
         var hint = document.getElementById("cart-hint-" + rk);
@@ -753,6 +773,17 @@
         refreshAllCardBonusPreviews();
       });
     });
+
+    if (elFullAttendanceCheck) {
+      if (localStorage.getItem(LS_FULL_ATTENDANCE) === "1") {
+        elFullAttendanceCheck.checked = true;
+      }
+      elFullAttendanceCheck.addEventListener("change", function () {
+        localStorage.setItem(LS_FULL_ATTENDANCE, elFullAttendanceCheck.checked ? "1" : "0");
+        updateTotalsDisplay();
+      });
+      updateFullAttendanceDisplay(computeGrandBonusScaled());
+    }
 
     renderProductList();
     if (elSearch) {

@@ -230,6 +230,11 @@ body.lux-body,
   accent-color: var(--lux-nav);
   cursor: pointer;
 }
+.bonus-full-attendance-label {
+  padding-left: 0.25rem;
+  border-left: 1px solid var(--lux-border-light);
+  margin-left: 0.15rem;
+}
 
 .layout {
   display: grid;
@@ -695,6 +700,9 @@ body.lux-body,
   .total-bonus {
     font-size: 1.75rem;
   }
+  .total-bonus-full-attendance {
+    font-size: 1.5rem;
+  }
 }
 
 .checkout-panel .grand-totals-block,
@@ -836,12 +844,50 @@ body.lux-body,
 .total-revenue.is-updated { transform: scale(1.04); }
 .total-revenue-row { border-top: none; padding-top: 0.25rem; }
 
+.total-row-bonus .total-bonus-group {
+  margin-left: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: flex-end;
+  gap: 0.25rem 0.65rem;
+  max-width: 100%;
+}
+.total-bonus-main {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.35rem;
+}
+.full-attendance-bonus-block {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.25rem 0.35rem;
+}
+.full-attendance-sep {
+  color: var(--text-muted);
+  font-weight: 400;
+  padding: 0 0.15rem;
+}
+.full-attendance-inline-label {
+  font-size: 0.9375rem;
+  font-weight: 600;
+  color: var(--lux-nav);
+  letter-spacing: 0.04em;
+}
 .total-bonus {
   margin-left: auto;
   font-size: 2.25rem;
   font-weight: 700;
   color: var(--lux-gold);
   transition: color var(--transition-numbers), transform var(--transition-numbers);
+}
+.total-row-bonus .total-bonus-main .total-bonus,
+.total-row-bonus .total-bonus-full-attendance {
+  margin-left: 0;
+}
+.total-bonus-full-attendance {
+  font-size: 1.85rem;
 }
 .total-bonus.is-updated { transform: scale(1.04); }
 
@@ -852,6 +898,7 @@ body.lux-body,
   .page-title { font-size: 1.375rem; letter-spacing: 0.1em; }
   .total-revenue { font-size: 1.5rem; }
   .total-bonus { font-size: 2rem; }
+  .total-bonus-full-attendance { font-size: 1.65rem; }
   .product-card { grid-template-columns: 1fr; }
   .product-thumb,
   .product-thumb.product-thumb--empty {

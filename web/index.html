@@ -56,9 +56,9 @@
       </label>
 
       <!-- 加入結算前請先選比例；獎金會依比例折算，營業額維持原價合計 -->
-      <div class="bonus-ratio-bar" role="radiogroup" aria-labelledby="bonus-ratio-label">
+      <div class="bonus-ratio-bar">
         <span id="bonus-ratio-label" class="bonus-ratio-heading">你的獎金比例</span>
-        <div class="bonus-ratio-options">
+        <div class="bonus-ratio-options" role="radiogroup" aria-labelledby="bonus-ratio-label">
           <label class="bonus-ratio-option">
             <input type="radio" name="bonus-ratio" value="100" checked />
             <span>100%</span>
@@ -72,6 +72,10 @@
             <span>25%</span>
           </label>
         </div>
+        <label class="bonus-ratio-option bonus-full-attendance-label">
+          <input type="checkbox" id="full-attendance-check" />
+          <span>是否計算全勤</span>
+        </label>
       </div>
     </header>
 
@@ -180,10 +184,20 @@
             <span id="total-revenue" class="total-revenue" aria-live="polite">0</span>
             <span class="total-unit">元</span>
           </div>
-          <div class="total-row">
+          <div class="total-row total-row-bonus">
             <span class="total-label">總獎金合計（各比例實得加總）</span>
-            <span id="total-bonus" class="total-bonus" aria-live="polite">0</span>
-            <span class="total-unit">元</span>
+            <span class="total-bonus-group">
+              <span class="total-bonus-main">
+                <span id="total-bonus" class="total-bonus" aria-live="polite">0</span>
+                <span class="total-unit">元</span>
+              </span>
+              <span id="full-attendance-bonus-block" class="full-attendance-bonus-block" hidden>
+                <span class="full-attendance-sep" aria-hidden="true">·</span>
+                <span class="full-attendance-inline-label">含全勤後獎金</span>
+                <span id="full-attendance-bonus" class="total-bonus total-bonus-full-attendance" aria-live="polite">0</span>
+                <span class="total-unit">元</span>
+              </span>
+            </span>
           </div>
         </div>
 
