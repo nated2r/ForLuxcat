@@ -73,7 +73,7 @@
           </label>
         </div>
         <label class="bonus-ratio-option bonus-full-attendance-label">
-          <input type="checkbox" id="full-attendance-check" />
+          <input type="checkbox" id="full-attendance-check" class="full-attendance-sync" checked />
           <span>是否計算全勤</span>
         </label>
       </div>
@@ -179,6 +179,12 @@
         </div>
 
         <div class="subtotal-block grand-totals-block">
+          <div class="checkout-full-attendance-row">
+            <label class="checkout-full-attendance-label">
+              <input type="checkbox" class="full-attendance-sync" checked />
+              <span>是否計算全勤（顯示含全勤後獎金＝總獎金×1.25）</span>
+            </label>
+          </div>
           <div class="total-row total-revenue-row">
             <span class="total-label">總營業額合計</span>
             <span id="total-revenue" class="total-revenue" aria-live="polite">0</span>

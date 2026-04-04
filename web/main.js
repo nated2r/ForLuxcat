@@ -30,12 +30,20 @@
   var elCartEmptyGlobal = document.getElementById("cart-empty-global");
   var elTotalRevenue = document.getElementById("total-revenue");
   var elTotalBonus = document.getElementById("total-bonus");
-  var elFullAttendanceCheck = document.getElementById("full-attendance-check");
   var elFullAttendanceBlock = document.getElementById("full-attendance-bonus-block");
   var elFullAttendanceBonus = document.getElementById("full-attendance-bonus");
   var elClearAll = document.getElementById("clear-all");
 
   var CART_PLAN_SEP = "::p";
+
+  function getFullAttendanceSyncInputs() {
+    return document.querySelectorAll(".full-attendance-sync");
+  }
+
+  function isFullAttendanceChecked() {
+    var list = getFullAttendanceSyncInputs();
+    return list.length > 0 && list[0].checked;
+  }
 
   /* M 與 S01 之間數字先 ×2 才是每件獎金；再由獎金比例（100/50/25）折算實得 */
   function parseBonusFromCode(code) {
@@ -608,8 +616,9 @@
 
   /* 含全勤後獎金＝「總獎金合計（各比例實得加總）」×1.25 */
   function updateFullAttendanceDisplay(baseBonus) {
-    if (!elFullAttendanceBlock || !elFullAttendanceBonus || !elFullAttendanceCheck) return;
-    if (elFullAttendanceCheck.checked) {
+    if (!elFullAttendanceBlock || !elFullAttendanceBonus) return;
+    if (!getFullAttendanceSyncInputs().length) return;
+    if (isFullAttendanceChecked()) {
       elFullAttendanceBlock.hidden = false;
       var fa = Math.round(Number(baseBonus) * 1.25);
       elFullAttendanceBonus.textContent = formatInt(fa);
@@ -774,13 +783,22 @@
       });
     });
 
-    if (elFullAttendanceCheck) {
-      if (localStorage.getItem(LS_FULL_ATTENDANCE) === "1") {
-        elFullAttendanceCheck.checked = true;
-      }
-      elFullAttendanceCheck.addEventListener("change", function () {
-        localStorage.setItem(LS_FULL_ATTENDANCE, elFullAttendanceCheck.checked ? "1" : "0");
-        updateTotalsDisplay();
+    var fullAttInputs = getFullAttendanceSyncInputs();
+    if (fullAttInputs.length) {
+      var savedFA = localStorage.getItem(LS_FULL_ATTENDANCE);
+      var faOn = savedFA !== "0";
+      fullAttInputs.forEach(function (inp) {
+        inp.checked = faOn;
+      });
+      fullAttInputs.forEach(function (inp) {
+        inp.addEventListener("change", function () {
+          var on = inp.checked;
+          fullAttInputs.forEach(function (other) {
+            if (other !== inp) other.checked = on;
+          });
+          localStorage.setItem(LS_FULL_ATTENDANCE, on ? "1" : "0");
+          updateTotalsDisplay();
+        });
       });
       updateFullAttendanceDisplay(computeGrandBonusScaled());
     }
